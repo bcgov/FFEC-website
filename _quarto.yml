@@ -9,13 +9,17 @@ website:
         text: Home
       - href: about.qmd
         text: Who we are
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
     tools:
       - icon: github
         menu:
           - text: Source code
-            url: https://....
+            url: https://github.com/CeresBarros/FFEC-website
           - text: Report a bug
-            url: https://..../Issues
+            url: https://github.com/CeresBarros/FFEC-website/Issues
     side-bar:
       collapse-level: 4
       style: floating
