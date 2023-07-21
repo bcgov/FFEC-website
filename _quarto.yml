@@ -9,6 +9,10 @@ website:
         text: Home
       - href: about.qmd
         text: Who we are
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
     tools:
       - icon: github
         menu:
