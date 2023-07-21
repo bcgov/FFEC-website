@@ -13,7 +13,6 @@ name: Quarto Publish
 jobs:
   build-deploy:
     if: "!contains(github.event.commits[0].message, '[skip-ci]')"
-    name: Render and publish website
     runs-on: ubuntu-latest
 
     permissions:
