@@ -1,0 +1,15 @@
+---
+title: "Future Forest Ecosystems Centre"
+date: last-modified
+date-format: long
+comments: false
+---
+
+Welcome to the website of the Future Forest Ecosystems Centre!
+
+We are a research-oriented team at the Forest Carbon and Climate Services Branch 
+in the Office of the Chief Forester (BC Ministry of Forests), based in Victoria,
+BC, Canada.
+
+
+

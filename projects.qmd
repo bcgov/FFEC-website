@@ -1,0 +1,12 @@
+---
+title: "Projects"
+date: last-modified
+date-format: long
+comments: false
+---
+
+## Ongoing projects
+<!--TODO: add description-->
+
+## Past projects
+<!--TODO: add description-->
