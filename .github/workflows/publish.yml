@@ -15,7 +15,7 @@ name: Quarto Publish
 jobs:
   build-deploy:
     if: |
-      "!contains(github.event.commits[0].message, '[skip-ci]')" &&
+      !contains(github.event.commits[0].message, '[skip-ci]') &&
       (github.event.pull_request.merged == true || github.event_name == 'push')
     runs-on: ubuntu-latest
 
