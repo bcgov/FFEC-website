@@ -37,6 +37,9 @@ jobs:
           packages:
             any::knitr
             any::rmarkdown
+            any::data.table
+            any::kableExtra
+            any::Require
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
