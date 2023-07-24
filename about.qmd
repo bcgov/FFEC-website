@@ -22,107 +22,105 @@ and stand responses to climate warming and drought.
 
 ## Team profiles
 
-+---------------------+------------------------------------------------+
-| ![Colin             | **Team Lead**                                  |
-| Mahony](https://i1. |                                                |
-| rgstatic.net/ii/pro | [Dr Colin                                      |
-| file.image/32722151 | Mahony](http                                   |
-| 7537280-14550270970 | s://www.researchgate.net/profile/Colin-Mahony) |
-| 98_Q512/Colin-Mahon |                                                |
-| y.jpg){width="232"} | <!--TODO: add description-->                   |
-+---------------------+------------------------------------------------+
-| ![Xin               | **Manager**                                    |
-| Y                   |                                                |
-| uan](https://media. | [Xin Yuan,                                     |
-| licdn.com/dms/image | MSc](https://ca.linkedin.com/in/yuanforestry)  |
-| /C4D03AQGiHXTdpzG37 |                                                |
-| Q/profile-displayph | <!--TODO: add description-->                   |
-| oto-shrink_800_800/ |                                                |
-| 0/1605076173925?e=2 |                                                |
-| 147483647&v=beta&t= |                                                |
-| ombeCSWhnD1ZXe1wLme |                                                |
-| KXDhXTgenUbTRc0isjH |                                                |
-| ZlBgE){width="232"} |                                                |
-+---------------------+------------------------------------------------+
-| ![Aseem             | [Dr                                            |
-| Sha                 | ](https:/                                      |
-| rma](https://media. | /www.researchgate.net/profile/Aseem-Sharma-2/r |
-| licdn.com/dms/image | esearch)[Aseem](https://sites.google.com/view/ |
-| /D5603AQFpfpM5PgwSq | aseemrajsharma/home)[Sharma](https://www.resea |
-| g/profile-displayph | rchgate.net/profile/Aseem-Sharma-2/research) - |
-| oto-shrink_200_200/ | Research Climatologist                         |
-| 0/1685942917177?e=1 |                                                |
-| 692835200&v=beta&t= | <!--TODO: add description-->                   |
-| yXXrVA-Ts6slrlX5SvX |                                                |
-| X-4oQdqM2GCR1YiqaW2 |                                                |
-| Fi0kk){width="232"} |                                                |
-+---------------------+------------------------------------------------+
-| ![Ceres             | [Dr Ceres                                      |
-| Barros](https://i1. | Barros](https:                                 |
-| rgstatic.net/ii/pro | //www.researchgate.net/profile/Ceres-Barros) - |
-| file.image/70510294 | Research Ecologist                             |
-| 8093955-15451210517 |                                                |
-| 89_Q512/Ceres-Barro | Ceres has a strong passion for understanding   |
-| s.jpg){width="232"} | and predicting ecosystem resilience to         |
-|                     | multiple disturbances. She has experience      |
-|                     | using complex ecological simulation models to  |
-|                     | explore fundamental and applied questions      |
-|                     | related to ecosystem stability to climate      |
-|                     | change, drought, fire, land-use changes and    |
-|                     | permafrost thaw. Her research is also strongly |
-|                     | focused on the development of integrated,      |
-|                     | reusable and transparent modelling workflows   |
-|                     | that can be used not only for research         |
-|                     | purposes, but also to support and inform       |
-|                     | end-users within and beyond the government.    |
-|                     |                                                |
-|                     | She earned her BSc in Biology from the         |
-|                     | University of Lisbon, Portugal, and an MSc in  |
-|                     | Ecology and Environmental Sustainability from  |
-|                     | the University of Aberdeen, Scotland. She      |
-|                     | later obtained her PhD in Biodiversity,        |
-|                     | Ecology and Environment from the University of |
-|                     | Grenoble Alps, France, was a post-doctoral     |
-|                     | fellow and research associate at the           |
-|                     | University of British Columbia.                |
-|                     |                                                |
-|                     | She currently acts as a committee member of    |
-|                     | the [British Ecological Society Macroecology   |
-|                     | SIG](https://                                  |
-|                     | www.britishecologicalsociety.org/membership-co |
-|                     | mmunity/special-interest-groups/macroecology/) |
-|                     | and the [Response Diversity                    |
-|                     | Network](https://responsediversityn            |
-|                     | etwork.github.io/RDN-website/who-we-are.html), |
-|                     | and is an Associate Editor for [Ecological     |
-|                     | Solutions and                                  |
-|                     | Evidence](https://besjourn                     |
-|                     | als.onlinelibrary.wiley.com/journal/26888319). |
-+---------------------+------------------------------------------------+
-| ![Kiri              | [Kiri Daust,                                   |
-| Daust](https://a    | B                                              |
-| vatars.githubuserco | Sc](https://scholar.google.ca/citations?user=E |
-| ntent.com/u/3407303 | 0ktabQAAAAJ&hl=en&inst=17001591832933267808) - |
-| 8?v=4){width="232"} | Data Scientist                                 |
-|                     |                                                |
-|                     | <!--TODO: add description-->                   |
-+---------------------+------------------------------------------------+
-| ![Vanessa           | [Vanessa Comeau,                               |
-| Comea               | MSc](https://w                                 |
-| u](https://static.w | ww.ubctreeringlab.ca/members/vanessa-comeau) - |
-| ixstatic.com/media/ | Research Ecologist                             |
-| 06cf37_fa60f83b389b |                                                |
-| 42cdb1d56a78cfd9448 | <!--TODO: add description-->                   |
-| 7~mv2.jpg/v1/fill/w |                                                |
-| _1382,h_1382,al_c,q |                                                |
-| _85/Vanessa%20Comea |                                                |
-| u.jpg){width="232"} |                                                |
-+---------------------+------------------------------------------------+
-| ![Vivek             | [Dr Vivek                                      |
-| Sriva               | Srivastava](https://www.                       |
-| stava](https://pope | researchgate.net/profile/Vivek-Srivastava-9) - |
-| col.sites.olt.ubc.c | Data Scientist                                 |
-| a/files/2022/06/Viv |                                                |
-| ek_Srivastava_squar | <!--TODO: add description-->                   |
-| e.png){width="232"} |                                                |
-+---------------------+------------------------------------------------+
++--------------------+-----------------------------------------------+
+| ![Colin            | **Team Lead**                                 |
+| Mahony](           |                                               |
+| https://pbs.twimg. | [Dr Colin                                     |
+| com/profile_images | Mahony](http%20s                              |
+| /83662516550087065 | ://www.researchgate.net/profile/Colin-Mahony) |
+| 6/wgm1w-hN_400x400 |                                               |
+| .jpg){width="232"} | <!--TODO: add description-->                  |
++--------------------+-----------------------------------------------+
+| ![Xin              | **Manager**                                   |
+| Yuan](https        |                                               |
+| ://media.licdn.com | [Xin Yuan,                                    |
+| /dms/image/C4D03AQ | MSc](https://ca.linkedin.com/in/yuanforestry) |
+| GiHXTdpzG37Q/profi |                                               |
+| le-displayphoto-sh | <!--TODO: add description-->                  |
+| rink_800_800/0/160 |                                               |
+| 5076173925?e=21474 |                                               |
+| 83647&v=beta&t=omb |                                               |
+| eCSWhnD1ZXe1wLmeKX |                                               |
+| DhXTgenUbTRc0isjHZ |                                               |
+| lBgE){width="232"} |                                               |
++--------------------+-----------------------------------------------+
+| ![Aseem            | [Dr](https:/%20/www.research                  |
+| Sharma](https://we | gate.net/profile/Aseem-Sharma-2/r%20esearch)[ |
+| b.unbc.ca/~asharma | Aseem](https://sites.google.com/view/%20aseem |
+| /Images/ProfilePic | rajsharma/home)[Sharma](https://www.resea%20r |
+| .JPG){width="232"} | chgate.net/profile/Aseem-Sharma-2/research) - |
+|                    | Research Climatologist                        |
+|                    |                                               |
+|                    | <!--TODO: add description-->                  |
++--------------------+-----------------------------------------------+
+| ![Ceres            | [Dr Ceres                                     |
+| Barros](h          | Barros](https:%20/                            |
+| ttps://pbs.twimg.c | /www.researchgate.net/profile/Ceres-Barros) - |
+| om/profile_images/ | Research Ecologist                            |
+| 104212429412859084 |                                               |
+| 8/vkD84cBQ_400x400 | Ceres has a strong passion for understanding  |
+| .jpg){width="232"} | and predicting ecosystem resilience to        |
+|                    | multiple disturbances. She has experience     |
+|                    | using complex ecological simulation models to |
+|                    | explore fundamental and applied questions     |
+|                    | related to ecosystem stability to climate     |
+|                    | change, drought, fire, land-use changes and   |
+|                    | permafrost thaw. Her research is also         |
+|                    | strongly focused on the development of        |
+|                    | integrated, reusable and transparent          |
+|                    | modelling workflows that can be used not only |
+|                    | for research purposes, but also to support    |
+|                    | and inform end-users within and beyond the    |
+|                    | government.                                   |
+|                    |                                               |
+|                    | She earned her BSc in Biology from the        |
+|                    | University of Lisbon, Portugal, and an MSc in |
+|                    | Ecology and Environmental Sustainability from |
+|                    | the University of Aberdeen, Scotland. She     |
+|                    | later obtained her PhD in Biodiversity,       |
+|                    | Ecology and Environment from the University   |
+|                    | of Grenoble Alps, France, was a post-doctoral |
+|                    | fellow and research associate at the          |
+|                    | University of British Columbia.               |
+|                    |                                               |
+|                    | She currently acts as a committee member of   |
+|                    | the [British Ecological Society Macroecology  |
+|                    | SIG](https://%20www.b                         |
+|                    | ritishecologicalsociety.org/membership-co%20m |
+|                    | munity/special-interest-groups/macroecology/) |
+|                    | and the [Response Diversity                   |
+|                    | Network](https://responsediversityn%20e       |
+|                    | twork.github.io/RDN-website/who-we-are.html), |
+|                    | and is an Associate Editor for [Ecological    |
+|                    | Solutions and                                 |
+|                    | Evidence](https://besjourn%20a                |
+|                    | ls.onlinelibrary.wiley.com/journal/26888319). |
++--------------------+-----------------------------------------------+
+| ![Kiri             | [Kiri Daust, B                                |
+| Dau                | Sc](h                                         |
+| st](https://i1.rgs | ttps://scholar.google.ca/citations?user=E%200 |
+| tatic.net/ii/profi | ktabQAAAAJ&hl=en&inst=17001591832933267808) - |
+| le.image/861127575 | Data Scientist                                |
+| 609344-15823202217 |                                               |
+| 17_Q512/Kiri-Daust | <!--TODO: add description-->                  |
+| .jpg){width="232"} |                                               |
++--------------------+-----------------------------------------------+
+| ![Vanessa          | [Vanessa Comeau,                              |
+| Comeau](https      | MSc](https://w%20w                            |
+| ://static.wixstati | w.ubctreeringlab.ca/members/vanessa-comeau) - |
+| c.com/media/06cf37 | Research Ecologist                            |
+| _fa60f83b389b42cdb |                                               |
+| 1d56a78cfd94487~mv | <!--TODO: add description-->                  |
+| 2.jpg/v1/fill/w_13 |                                               |
+| 82,h_1382,al_c,q_8 |                                               |
+| 5/Vanessa%20Comeau |                                               |
+| .jpg){width="232"} |                                               |
++--------------------+-----------------------------------------------+
+| ![Vivek            | [Dr Vivek                                     |
+| Srivastava         | Srivastava](https://www.%20r                  |
+| ](https://popecol. | esearchgate.net/profile/Vivek-Srivastava-9) - |
+| sites.olt.ubc.ca/f | Data Scientist                                |
+| iles/2022/06/Vivek |                                               |
+| _Srivastava_square | <!--TODO: add description-->                  |
+| .png){width="232"} |                                               |
++--------------------+-----------------------------------------------+
