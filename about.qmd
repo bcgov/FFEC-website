@@ -85,7 +85,7 @@ profileTab[nameShort == "Ceres",
                                "University of Aberdeen, Scotland. She later obtained her PhD in",
                                "Biodiversity, Ecology and Environment from the University of Grenoble",
                                "Alps, France, was a post-doctoral fellow and research associate at the",
-                               "Ceres is currently on the British Ecological Society Macroecology SIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/macroecology/)",
+                               "Ceres is currently on the [British Ecological Society Macroecology SIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/macroecology/)",
                                "committee and on the [Response Diversity Network](https://responsediversitynetwork.github.io/RDN-website/who-we-are.html) committee,",
                                "and is an Associate Editor for [Ecological Solutions and Evidence](https://besjournals.onlinelibrary.wiley.com/journal/26888319)."
                              ),
