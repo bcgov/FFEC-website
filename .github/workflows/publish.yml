@@ -1,7 +1,6 @@
 on:
   pull_request:
-    types:
-      - closed
+    types: [opened, synchronize, closed, reopened]
     branches:
       - main
       - master
@@ -15,8 +14,8 @@ name: Quarto Publish
 jobs:
   build-deploy:
     if: |
-      !contains(github.event.commits[0].message, '[skip-ci]') &&
-      (github.event.pull_request.merged == true || github.event_name == 'push')
+      !contains(github.event.commits[0].message, '[skip-ci]') ||
+      (github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
 
     permissions:
@@ -28,6 +27,19 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages:
+            any::knitr
+            any::rmarkdown
+            any::data.table
+            any::kableExtra
+            any::Require
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
