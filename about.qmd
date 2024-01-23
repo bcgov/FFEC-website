@@ -10,7 +10,6 @@ if (!"Require" %in% installed.packages()) install.packages("Require")
 Require::Require(c("data.table", "kableExtra"))
 ```
 
-
 The Future Forest Ecosystems Centre is a brand new research-oriented
 team at the Forest Carbon and Climate Services Branch of the Office of
 the Chief Forester (BC Ministry of Forests).
@@ -109,7 +108,7 @@ profileTab[nameShort == "Vanessa",
 Research Ecologist", 
 "",
 paste(
-                               "<!--TODO: add description-->"
+                               "Vanessa Comeau uses forest ecology and dendrochronology to better understand the impacts of anthropogenic climate change on forests in British Columbia. She is particularly interested in applied research that is collaborative with local stakeholders and Indigenous Peoples. Vanessa earned an MSc from the Faculty of Forestry at the University of British Columbia focused on understanding the climatic drivers of yellow-cedar decline on Haida Gwaii. She completed a Bachelor of Environmental Science at the University of Manitoba with a focus on vegetation ecology and anthropogenic impacts on prairie ecosystems. Vanessa grew up in Winnipeg, Manitoba and has lived in BC since 2016. She currently lives and works on the unceded ancestral territory of the Musqueam, Squamish and Tsleil-Waututh peoples (Vancouver, BC)."
                                ),
                               sep = "<br>")]
 
@@ -156,4 +155,3 @@ kable(profileTab[, .(photo, nameDesc)], format = "html", escape = FALSE, col.nam
   print()
 
 ```
-
