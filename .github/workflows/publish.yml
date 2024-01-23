@@ -4,10 +4,12 @@ on:
     branches:
       - main
       - master
+      - development
   push:
     branches:
       - main
       - master
+      - development
 
 name: Quarto Publish
 
