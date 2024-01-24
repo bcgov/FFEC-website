@@ -17,9 +17,9 @@ website:
       - icon: github
         menu:
           - text: Source code
-            url: https://github.com/CeresBarros/FFEC-website
+            url: https://github.com/bcgov/FFEC-website
           - text: Report a bug
-            url: https://github.com/CeresBarros/FFEC-website/Issues
+            url: https://github.com/bcgov/FFEC-website/Issues
     side-bar:
       collapse-level: 4
       style: floating
