@@ -7,6 +7,7 @@ comments: false
 
 ```{r setup, include = FALSE}
 if (!"Require" %in% installed.packages()) install.packages("Require")
+options(repos = "https://cloud.r-project.org/")
 Require::Require(c("data.table", "kableExtra"))
 ```
 
