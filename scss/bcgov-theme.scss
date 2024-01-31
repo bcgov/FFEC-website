@@ -1,0 +1,271 @@
+// A Quarto-compatible version of BC Gov bootstrap theme available here: https://github.com/digitalspace/bcparks-bootstrap-theme
+
+/*-- scss:functions --*/
+
+// Request a theme color level
+@function panel-border-level($color-name: "primary") {
+  @if ($color-name == 'info' or $color-name == 'warning') {
+    @return $info-alert-border-level;
+  }
+  @return $alert-border-level;
+}
+
+
+/*-- scss:defaults --*/
+
+$theme: "bcgov" !default;
+
+//
+// Color system
+//
+
+$theme-colors: (
+  primary: #38598a,
+  secondary: #6c757d,
+  success: #43893e,
+  info: #a6c9ea,
+  warning: #f9ca54,
+  danger: #d8292f,
+  light: #e9ecef,
+);
+$custom-colors: (
+  primary-nav: #036,
+  secondary-nav: #5475a7,
+  bcgold: #fcba19,
+  form-grey: #f2f2f2,
+);
+
+$primary: #38598a;
+$secondary: #6c757d;
+$success: #43893e;
+$info: #a6c9ea;
+$warning: #f9ca54;
+$danger: #d8292f;
+$light: #e9ecef;
+$primary-nav: #036;
+$secondary-nav: #5475a7;
+$bcgold: #fcba19;
+$form-grey: #f2f2f2;
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+$min-contrast-ratio:   2.75 !default;
+
+// Fonts
+
+$bcgov-font-path: "/fonts" !default;
+$font-family-sans-serif: BCSans, "Noto Sans", Verdana, Arial, sans serif !default;
+$font-family-base: $font-family-sans-serif !default;
+$line-height-base: 1.6 !default;
+$body-color: #494949 !default;
+
+// Headings
+$headings-font-weight: 700 !default;
+$headings-line-height: 1.1 !default;
+$headings-margin-bottom: 1.25rem !default;
+$h1-font-size: 2.074rem !default;
+$h2-font-size: 1.54912rem !default;
+$h3-font-size: 1.33882rem !default;
+$h4-font-size: 1rem !default;
+$h5-font-size: 0.86425rem !default;
+$h6-font-size: 0.80345rem !default;
+
+// Links
+$link-decoration: underline !default;
+$link-color: #1a5a96 !default;
+$link-hover-color: #0631f3 !default;
+$btn-link-outline-color: rgba($primary, 0.5) !default;
+
+// Navbar - header and footer
+$header-box-shadow-color: rgba(51, 51, 51, 0.5) !default;
+$nav-link-padding-x: 0.8rem !default;
+$nav-link-padding-y: 0.4rem !default;
+$navbar-nav-link-padding-x: 0.8rem !default;
+$navbar-nav-link-padding-y: 0.4rem !default;
+$navbar-dark-color: #fff !default;
+$navbar-dark-toggler-border-color: rgba(255, 255, 255, 0.6) !default;
+$footer-separator-color: #4b5e73 !default;
+
+// Darker borders
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-450: #bdc5cc !default;
+$gray-500: #adb5bd !default;
+$alpha-border-color: rgba(black, 0.3) !default;
+$alert-border-level: -7 !default;
+$card-border-color: $alpha-border-color !default;
+$hr-border-color: $alpha-border-color !default;
+$border-color: $gray-400 !default;
+$input-border-color: $gray-500 !default;
+$list-group-border-color: $alpha-border-color !default;
+$nav-tabs-border-color: $gray-500 !default;
+$nav-tabs-link-active-border-color: $gray-500 $gray-500 white !default;
+$pagination-border-color: $gray-500 !default;
+$pagination-disabled-border-color: $gray-400 !default;
+
+// Clearer hover states
+$control-link-color: white !default;
+$control-link-bg: lighten($secondary-nav, 10%) !default; // custom var
+$control-link-border-color: lighten($secondary-nav, 8%) !default; // custom var
+$pagination-hover-color: $control-link-color;
+$pagination-hover-bg: $control-link-bg !default;
+$pagination-hover-border-color: $control-link-border-color !default;
+$list-group-active-bg: $control-link-bg !default;
+$list-group-active-border-color: $control-link-border-color !default;
+$list-group-action-hover-color: $link-hover-color;
+$nav-tabs-link-hover-border-color: $control-link-color $control-link-color
+  $nav-tabs-border-color !default;
+
+
+/*-- scss:rules --*/
+
+
+// Navbar
+
+.nav-link,
+.page-link,
+.navbar-brand,
+a.btn {
+  text-decoration: none;
+}
+
+.navbar-brand > img{
+  max-height: 80px;
+}
+
+// Highlight focused links
+a:not(.btn):focus {
+  color: $link-hover-color;
+}
+.nav-tabs .nav-link:not(.active) {
+  &:hover,
+  &:focus {
+    background-color: $control-link-bg;
+    border-color: $control-link-border-color;
+    color: $control-link-color;
+  }
+}
+
+// Add focus ring to btn-link, highlight as regular link
+.btn.btn-link {
+  text-decoration: underline;
+  &:focus,
+  &.focus {
+    box-shadow: 0 0 0 $btn-focus-width $btn-link-outline-color;
+    color: $link-hover-color;
+  }
+}
+
+.list-group .list-group-item-action {
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+// Header, adds the gold bottom border and shadow
+header nav {
+  background-color: $primary-nav;
+  border-bottom: 2px solid $bcgold;
+  &.shadow {
+    box-shadow: 0 3px 3px 1px $header-box-shadow-color;
+  }
+}
+
+// Add spacing around content (use p-* to override)
+main {
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+// Underline navbar links when active
+.navbar-nav .nav-link {
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+// Set footer background, add gold border above
+footer nav {
+  background-color: $primary-nav;
+  border-top: 2px solid $bcgold;
+}
+
+// Only sibling list items in footer get left border
+@each $breakpoint in map-keys($grid-breakpoints) {
+  $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+  footer .navbar-expand#{$infix} .nav-item + .nav-item {
+    @include media-breakpoint-up($breakpoint) {
+      border-left: 1px solid $footer-separator-color;
+    }
+  }
+}
+
+// Stronger border colour
+.alert.alert-info {
+  border-color: theme-color-level(info, -4);
+}
+.alert.alert-warning {
+  border-color: theme-color-level(warning, -4);
+}
+
+.btn-success,
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited {
+  color: white;
+}
+
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger:visited {
+  color: white;
+}
+
+$component-active-bg: $primary;
+$nav-pills-link-active-color: white;
+
+
+// The label element is no longer bolded by default, neither is this class defined
+.control-label {
+  font-weight: 700;
+}
+
+// Remove background and left padding on page breadcrumbs
+.breadcrumb.page-breadcrumb {
+  background: transparent;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  padding-left: 0;
+}
+
+@font-face {
+  src: url("#{$bcgov-font-path}/bc-sans/BCSans-Regular.woff2") format('woff2'),
+    url("#{$bcgov-font-path}/bc-sans/BCSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-family: "BCSans";
+}
+@font-face {
+  src: url("#{$bcgov-font-path}/bc-sans/BCSans-BoldItalic.woff2") format("woff2"),
+    url("#{$bcgov-font-path}/bc-sans/BCSans-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-family: "BCSans";
+}
+@font-face {
+  src: url("#{$bcgov-font-path}/bc-sans/BCSans-Italic.woff2") format("woff2"),
+    url("#{$bcgov-font-path}/bc-sans/BCSans-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-family: "BCSans";
+}
+@font-face {
+  src: url("#{$bcgov-font-path}/bc-sans/BCSans-Bold.woff2") format("woff2"),
+    url("#{$bcgov-font-path}/bc-sans/BCSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-family: "BCSans";
+}
