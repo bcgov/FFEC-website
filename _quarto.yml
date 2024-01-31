@@ -6,9 +6,12 @@ project:
 
 website:
   site-url: https://bcgov.github.io/FFEC-website
+  page-navigation: true
+  reader-mode: true
   navbar:
     title: false
     logo: img/logos/FFEC_logo_white.png
+    search: true
     left:
       - text: "Home"
         file: index.qmd
