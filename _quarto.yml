@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!packages/"  ## there are some .Rmds in pkg files
 
 website:
   title: "Future Forest Ecosystems Centre"
