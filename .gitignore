@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # R library
 packages/
+
+# render files - GHA renders automatically to gh-pages branch
+_site/
