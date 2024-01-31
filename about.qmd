@@ -58,9 +58,7 @@ profileTab[nameShort == "Aseem",
            nameDesc := paste("[Dr Aseem Sharma](https://sites.google.com/view/aseemrajsharma/home)",
                              "- Research Climatologist", 
                              "",
-                             paste(
-                               "<!--TODO: add description-->"
-                             ),
+                             htmltools::includeMarkdown('aseem_bio.rmd'),
                              sep = "<br>")]
 
 profileTab[nameShort == "Ceres", 
@@ -165,7 +163,7 @@ profileTab[nameShort == "Vivek",
 
 kable(profileTab[, .(photo, nameDesc)], format = "html", escape = FALSE, col.names = NULL) |> 
   kable_styling(full_width=TRUE) |>
-  collapse_rows(columns = c(1,2), valign="top") |>
+  # collapse_rows(columns = c(1,2), valign="top") |>
   column_spec(column = 1, border_right = TRUE, width = "4cm") |>
   print()
 
