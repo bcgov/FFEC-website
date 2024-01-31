@@ -5,14 +5,16 @@ website:
   title: "Future Forest Ecosystems Centre"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Who we are
-      - href: projects.qmd
-        text: Projects
-      - href: publications.qmd
-        text: Publications
+      - text: "Home"
+        file: index.qmd
+      - text: "Who we are"
+        file: about.qmd
+      - text: "What we do"
+        menu:
+          - projects.qmd
+          - products.qmd
+      - text: "Publications"
+        file: publications.qmd
     tools:
       - icon: github
         menu:
