@@ -28,7 +28,9 @@ website:
 
 format:
   html:
-    theme: minty
+    theme:
+      - cosmo
+      - scss/bcgov-theme.scss
     toc: true
     html-math-method: katex
 
