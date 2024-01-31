@@ -1,7 +1,5 @@
 ---
 title: "Who we are"
-date: last-modified
-date-format: long
 comments: false
 ---
 
