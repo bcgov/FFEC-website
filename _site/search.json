@@ -18,7 +18,21 @@
     "href": "index.html",
     "title": "Future Forest Ecosystems Centre",
     "section": "",
-    "text": "Welcome to the website of the Future Forest Ecosystems Centre!\nWe are a research-oriented team at the Forest Carbon and Climate Services Branch in the Office of the Chief Forester (BC Ministry of Forests), based in Victoria, BC, Canada.\n\n\n\nPowered by Quarto"
+    "text": "Welcome to the Future Forest Ecosystems Centre!\nWe are a research-oriented team at the Forest Carbon and Climate Services Branch in the Office of the Chief Forester (BC Ministry of Forests), based in Victoria, BC, Canada.\n\n\n\nPowered by Quarto"
+  },
+  {
+    "objectID": "products.html",
+    "href": "products.html",
+    "title": "Products and tools",
+    "section": "",
+    "text": "Powered by Quarto"
+  },
+  {
+    "objectID": "products.html#climr-r-package",
+    "href": "products.html#climr-r-package",
+    "title": "Products and tools",
+    "section": "climr R package",
+    "text": "climr R package"
   },
   {
     "objectID": "projects.html",
