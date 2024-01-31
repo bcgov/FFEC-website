@@ -1,25 +1,35 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!packages/"  ## there are some .Rmds in pkg files
 
 website:
-  title: "Future Forest Ecosystems Centre"
+  site-url: https://bcgov.github.io/FFEC-website
+  page-navigation: true
+  reader-mode: true
   navbar:
+    title: false
+    logo: img/logos/FFEC_logo_white.png
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Who we are
-      - href: projects.qmd
-        text: Projects
-      - href: publications.qmd
-        text: Publications
+      - text: "Home"
+        file: index.qmd
+      - text: "Who we are"
+        file: about.qmd
+      - text: "What we do"
+        menu:
+          - projects.qmd
+          - products.qmd
+      - text: "Publications"
+        file: publications.qmd
     tools:
       - icon: github
         menu:
           - text: Source code
-            url: https://github.com/CeresBarros/FFEC-website
+            url: https://github.com/bcgov/FFEC-website
           - text: Report a bug
-            url: https://github.com/CeresBarros/FFEC-website/Issues
+            url: https://github.com/bcgov/FFEC-website/Issues
     side-bar:
       collapse-level: 4
       style: floating
@@ -28,7 +38,9 @@ website:
 
 format:
   html:
-    theme: minty
+    theme:
+      - cosmo
+      - scss/bcgov-theme.scss
     toc: true
     html-math-method: katex
 

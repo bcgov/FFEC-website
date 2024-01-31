@@ -1,14 +1,11 @@
 ---
 title: "Who we are"
-date: last-modified
-date-format: long
 comments: false
 ---
 
 ```{r setup, include = FALSE}
-if (!"Require" %in% installed.packages()) install.packages("Require")
-options(repos = "https://cloud.r-project.org/")
-Require::Require(c("data.table", "kableExtra"))
+source("_common.R")
+Require::Require(c("data.table", "kableExtra (==1.3.4)"))
 ```
 
 The Future Forest Ecosystems Centre is a brand new research-oriented
