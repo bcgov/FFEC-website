@@ -5,8 +5,10 @@ project:
     - "!packages/"  ## there are some .Rmds in pkg files
 
 website:
-  title: "Future Forest Ecosystems Centre"
+  site-url: https://bcgov.github.io/FFEC-website
   navbar:
+    title: false
+    logo: img/logos/FFEC_logo_white.png
     left:
       - text: "Home"
         file: index.qmd
