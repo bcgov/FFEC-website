@@ -5,7 +5,7 @@ comments: false
 
 ```{r setup, include = FALSE}
 source("_common.R")
-Require::Require(c("data.table", "kableExtra (==1.3.4)"))
+Require::Require(c("data.table", "kableExtra (==1.3.4)","htmltools","markdown"))
 ```
 
 The Future Forest Ecosystems Centre is a brand new research-oriented
