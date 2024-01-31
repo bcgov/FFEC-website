@@ -26,7 +26,7 @@ and stand responses to climate warming and drought.
 ## Team profiles
 
 ```{r teamprofiles, echo = FALSE, results = 'asis'}
-profileTab <- data.table(nameShort = c("Colin", "Xin", "Aseem", "Ceres", "Kiri", "Vanessa", "Vivek"),
+profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", "Kiri", "Vanessa", "Vivek", "Xin"),
                          photo = "",
                          nameDesc = "")
 
