@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/bcgov/FFEC-website/projects.html</loc>
-    <lastmod>2024-01-24T00:32:21.758Z</lastmod>
+    <loc>https://bcgov.github.io/FFEC-website/publications.html</loc>
+    <lastmod>2024-01-31T02:05:29.222Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/bcgov/FFEC-website/publications.html</loc>
-    <lastmod>2024-01-24T00:32:21.286Z</lastmod>
+    <loc>https://bcgov.github.io/FFEC-website/products.html</loc>
+    <lastmod>2024-01-31T02:05:29.222Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/bcgov/FFEC-website/about.html</loc>
-    <lastmod>2024-01-24T00:32:20.754Z</lastmod>
+    <loc>https://bcgov.github.io/FFEC-website/about.html</loc>
+    <lastmod>2024-01-31T02:05:29.202Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/bcgov/FFEC-website/index.html</loc>
-    <lastmod>2024-01-24T00:32:21.526Z</lastmod>
+    <loc>https://bcgov.github.io/FFEC-website/index.html</loc>
+    <lastmod>2024-01-31T02:05:29.222Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bcgov.github.io/FFEC-website/projects.html</loc>
+    <lastmod>2024-01-31T02:05:29.222Z</lastmod>
   </url>
 </urlset>
