@@ -3,6 +3,7 @@ project:
   render:
     - "*.qmd"
     - "!packages/"  ## there are some .Rmds in pkg files
+    - "!bios/"
   preview:
     port: 3979
 

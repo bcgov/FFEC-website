@@ -58,7 +58,7 @@ profileTab[nameShort == "Aseem",
            nameDesc := paste("[Dr Aseem Sharma](https://sites.google.com/view/aseemrajsharma/home)",
                              "- Research Climatologist", 
                              "",
-                             htmltools::includeMarkdown('aseem_bio.rmd'),
+                             htmltools::includeMarkdown("bios/aseem_bio.rmd"),
                              sep = "<br>")]
 
 profileTab[nameShort == "Ceres", 
