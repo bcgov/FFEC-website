@@ -3,6 +3,8 @@ project:
   render:
     - "*.qmd"
     - "!packages/"  ## there are some .Rmds in pkg files
+  preview:
+    port: 3979
 
 website:
   site-url: https://bcgov.github.io/FFEC-website
