@@ -31,14 +31,13 @@ profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", "Kiri", "Vanes
                          nameDesc = "")
 
 ## add photos and descriptions -- not ideal, but Visual screws up the URLs
+
 profileTab[nameShort == "Colin", 
-           photo := "![Colin Mahony](https://pbs.twimg.com/profile_images/836625165500870656/wgm1w-hN_400x400.jpg){width='350'}"]
+           photo := "![Colin Mahony](img/Colin.jpg){width='350'}"]
 profileTab[nameShort == "Colin", 
-           nameDesc := paste("**Team Lead**",
-                             "[Dr Colin Mahony](https://www.researchgate.net/profile/Colin-Mahony)",
-                             paste(
-                               "<!--TODO: add description-->"
-                             ),
+           nameDesc := paste("[Dr Colin Mahony](https://www.researchgate.net/profile/Colin-Mahony) - Research Climatologist and Team Lead", 
+                             "",
+                             htmltools::includeMarkdown("bios/colin_bio.rmd"),
                              sep = "<br>")]
 
 profileTab[nameShort == "Xin", 
