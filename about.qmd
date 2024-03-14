@@ -26,7 +26,8 @@ and stand responses to climate warming and drought.
 ## Team profiles
 
 ```{r teamprofiles, echo = FALSE, results = 'asis'}
-profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", "Kiri", "Vanessa", "Vivek", "Xin"),
+profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", 
+                                       "Kiri", "Vanessa", "Vivek", "Will", "Xin"),
                          photo = "",
                          nameDesc = "")
 
@@ -35,7 +36,8 @@ profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", "Kiri", "Vanes
 profileTab[nameShort == "Colin", 
            photo := "![Colin Mahony](img/Colin.jpg){width='350'}"]
 profileTab[nameShort == "Colin", 
-           nameDesc := paste("[Dr Colin Mahony](https://www.researchgate.net/profile/Colin-Mahony) - Research Climatologist and Team Lead", 
+           nameDesc := paste("[Dr Colin Mahony](https://www.researchgate.net/profile/Colin-Mahony)",
+                             "Research Climatologist and FFEC Team Lead", 
                              "",
                              htmltools::includeMarkdown("bios/colin_bio.rmd"),
                              sep = "<br>")]
@@ -54,7 +56,7 @@ profileTab[nameShort == "Aseem",
            photo := "![Aseem Sharma](img/Aseem.jpg){width='350'}"]
 profileTab[nameShort == "Aseem", 
            nameDesc := paste("[Dr Aseem Sharma](https://sites.google.com/view/aseemrajsharma/home)",
-                             "- Research Climatologist", 
+                             "Research Climatologist", 
                              "",
                              htmltools::includeMarkdown("bios/aseem_bio.rmd"),
                              sep = "<br>")]
@@ -62,7 +64,8 @@ profileTab[nameShort == "Aseem",
 profileTab[nameShort == "Ceres", 
            photo := "![Ceres Barros](https://i1.rgstatic.net/ii/profile.image/705102948093955-1545121051789_Q512/Ceres-Barros.jpg){width='350'}"]
 profileTab[nameShort == "Ceres", 
-           nameDesc := paste("[Dr Ceres Barros](https:/www.researchgate.net/profile/Ceres-Barros) - Research Ecologist", 
+           nameDesc := paste("[Dr Ceres Barros](https:/www.researchgate.net/profile/Ceres-Barros)",
+                             "Research Ecologist", 
                              "",
                              htmltools::includeMarkdown("bios/ceres_bio.rmd"),
                              sep = "<br>")]
@@ -71,7 +74,7 @@ profileTab[nameShort == "Kiri",
            photo := "![Kiri Daust](img/Kiri.jfif){width='350'}"]
 profileTab[nameShort == "Kiri", 
            nameDesc := paste("[Kiri Daust, BSc](https://www.researchgate.net/profile/Kiri-Daust)",
-                             "- Data Scientist", 
+                             "Data Scientist", 
                              "",
                              paste(
                                "<!--TODO: add description-->"
