@@ -43,12 +43,11 @@ profileTab[nameShort == "Colin",
 profileTab[nameShort == "Xin", 
            photo := "![Xin Yuan](img/Xin.jfif){width='350'}"]
 profileTab[nameShort == "Xin", 
-           nameDesc := paste("**Manager**",
-                             "[Xin Yuan, MSc](https://ca.linkedin.com/in/yuanforestry)", 
+           nameDesc := paste("[Xin Yuan, RPF, MSc](https://ca.linkedin.com/in/yuanforestry)",
+                             paste("Manager, Research Section (Forest Carbon and Climate Services",
+                                   "Branch, Office of the Chief Forester, Ministry of Forests"), 
                              "",
-                             paste(
-                               "<!--TODO: add description-->"
-                             ),
+                             htmltools::includeMarkdown("bios/xin_bio.rmd"),
                              sep = "<br>")]
 
 profileTab[nameShort == "Aseem", 
