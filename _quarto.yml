@@ -36,7 +36,7 @@ website:
     side-bar:
       collapse-level: 4
       style: floating
-  body-footer: |
+  page-footer: |
     Powered by [Quarto](https://quarto.org/)
 
 format:
