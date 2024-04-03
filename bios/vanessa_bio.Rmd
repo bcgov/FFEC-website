@@ -1,0 +1,21 @@
+---
+title: "Vanessa's Bio"
+date: last-modified
+date-format: long
+comments: false
+---
+
+Vanessa Comeau uses forest ecology and dendrochronology to better
+understand the impacts of anthropogenic climate change on forests in
+British Columbia. She is particularly interested in applied research
+that is collaborative with local stakeholders and Indigenous Peoples.
+Vanessa earned an MSc from the Faculty of Forestry at the University of
+British Columbia focused on understanding the climatic drivers of
+yellow-cedar decline on Haida Gwaii.
+
+She completed a Bachelor of Environmental Science at the University of
+Manitoba with a focus on vegetation ecology and anthropogenic impacts on
+prairie ecosystems. Vanessa grew up in Winnipeg, Manitoba and has lived
+in BC since 2016. She currently lives and works on the unceded ancestral
+territory of the Musqueam, Squamish and Tsleil-Waututh peoples
+(Vancouver, BC).

@@ -3,6 +3,9 @@ project:
   render:
     - "*.qmd"
     - "!packages/"  ## there are some .Rmds in pkg files
+    - "!bios/"
+  preview:
+    port: 3979
 
 website:
   site-url: https://bcgov.github.io/FFEC-website
@@ -33,7 +36,7 @@ website:
     side-bar:
       collapse-level: 4
       style: floating
-  body-footer: |
+  page-footer: |
     Powered by [Quarto](https://quarto.org/)
 
 format:
