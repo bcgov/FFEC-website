@@ -22,7 +22,7 @@ website:
         file: about.qmd
       - text: "What we do"
         menu:
-          - projects.qmd
+          - projects/index.qmd
           - products.qmd
       - text: "Publications"
         file: publications.qmd
