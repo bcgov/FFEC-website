@@ -1,0 +1,43 @@
+---
+title: "Publications"
+listing:
+  - id: peer-reviewed
+    contents: ../publications/peer-reviewed/**/*.qmd
+    sort: "date desc"
+    page-size: 30
+    filter-ui: true
+    fields: [title, publication, author, url_source]
+  - id: reports
+    contents: ../publications/reports/**/*.qmd
+    sort: "date desc"
+    page-size: 30
+    filter-ui: true
+    fields: [title, publication, author, url_source]
+  - id: media
+    contents: ../publications/media/**/*.qmd
+    sort: "date desc"
+    page-size: 30
+    filter-ui: true
+    fields: [title, publication, author, url_source]
+page-layout: full
+---
+
+<hr>
+
+
+## Peer-reviewed publications
+
+:::{#peer-reviewed}
+:::
+
+## Reports
+
+:::{#reports}
+:::
+
+
+## Media
+
+:::{#media}
+:::
+

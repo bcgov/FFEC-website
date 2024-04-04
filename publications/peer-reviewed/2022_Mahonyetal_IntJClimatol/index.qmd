@@ -1,0 +1,14 @@
+---
+title: "A global climate model ensemble for downscaled monthly climate normals over North America"
+date: 2022-09-01
+author: ["Colin R Mahony", "Tongli Wang", "Andreas Hamann", "Alex J Cannon"]
+publication: "International Journal of Climatology, **42:11**, _5871-5891_ (2022)."
+categories: ["climr"]
+url_source: https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.7566
+url_preprint: 
+journ: "International Journal of Climatology"
+issue: 42:11
+page: 5871-5891
+year: 2022
+---
+

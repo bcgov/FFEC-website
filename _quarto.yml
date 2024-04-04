@@ -25,7 +25,7 @@ website:
           - projects/index.qmd
           - products.qmd
       - text: "Publications"
-        file: publications.qmd
+        file: publications/index.qmd
     tools:
       - icon: github
         menu:
