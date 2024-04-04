@@ -7,3 +7,4 @@ if (!"Require" %in% installed.packages()) install.packages("Require")
 
 Require::setLibPaths("packages")
 
+Require::Require("rvest")
