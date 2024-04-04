@@ -1,6 +1,5 @@
 ---
 title: "Ceres's Bio"
-date: last-modified
 date-format: long
 comments: false
 ---

@@ -1,7 +1,5 @@
 ---
 title: "Products and tools"
-date: last-modified
-date-format: long
 comments: false
 ---
 
