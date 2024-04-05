@@ -1,0 +1,13 @@
+---
+title: "Title"
+date: YYYY-MM-DD
+author: ["Author1", "Author2"]
+publication: "Series Title, Institution, Place (year)."
+categories: [""]
+url_source: "XXXX"
+series: "XXXX"
+institution: XXXX
+place: XXXX
+year: YYYY
+image: filename.jpg
+---

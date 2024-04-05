@@ -1,0 +1,14 @@
+---
+title: "Title"
+date: YYYY-MM-DD
+author: ["Author1", "Author2"]
+publication: "Journal Name, **vol:issue**, _pages_ (year)."
+categories: [""]
+url_source: "XXXX"
+url_preprint: 
+journ: "XXXX"
+issue: XXXX
+page: XXXX
+year: YYYY
+image: filename.jpg
+---

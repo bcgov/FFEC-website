@@ -1,0 +1,13 @@
+---
+title: "This is a media entry"
+date: 2024-04-04
+author: ["Author 1", "Author 2"]
+director: ["Director 1"]
+network: "CBC"
+categories: ["mock"]
+url_source: "XXXX"
+item_type: "Podcast"
+episode: 1
+place: "Victoria"
+year: 2024
+---

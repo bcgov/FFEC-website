@@ -1,0 +1,14 @@
+---
+title: "Title"
+date: YYYY-MM-DD
+author: ["Author1", "Author2"]
+director: ["Director"]
+network: ""
+categories: [""]
+url_source: "XXXX"
+item_type: "Podcast"
+episode: XXXX
+place: XXXX
+year: YYYY
+image: filename.jpg
+---
