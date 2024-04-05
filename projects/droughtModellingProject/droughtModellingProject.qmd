@@ -5,9 +5,11 @@ image: Designer.jpeg
 body-footer: "AI-generated image, using [Microsoft Designer](https://designer.microsoft.com/image-creator)" 
 listing:
   id: pubs
-  contents: ../../publications/**/*.qmd
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/templateQMDs"
   sort: "pub_number desc"
-  # sort-ui: true
+  sort-ui: false
   include:
     categories: *ALIAS
   fields: [publication, title, categories, image, date, author]
@@ -23,6 +25,16 @@ listing:
 <!-- } -->
 <!-- </style> -->
 
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column}
+
+![](Designer.jpeg)
+
+:::
+
+::: {#second-column}
+
 Drought severity and impacts on BC forests are expected to increase in
 the coming years, with negative outcomes for an array of forest values
 and ecosystem services (ES). Despite the existing evidence of drought
@@ -33,6 +45,10 @@ scales and that account for climate uncertainty. These assessments are
 only possible using modelling tools that incorporate information on
 forest responses to drought and climate warming, but also the
 interactions between drought, fire and the forest.
+
+:::
+
+::::
 
 In collaboration with Dr. Ignacio Barbeito (UBC) and Dr. Ceres Barros
 (CFS), the FFEC is supporting the development of new models to forecast
