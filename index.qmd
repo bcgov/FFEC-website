@@ -4,7 +4,7 @@ comments: false
 about: 
   id: ffec-welcome
   template: trestles
-  image: img/IMG_1420.JPG
+  image: img/IMG_1420.jpg
   image-shape: round
   links: 
     - icon: github
