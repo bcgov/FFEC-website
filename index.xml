@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Future Forest Ecosystems Centre</title>
+<link>https://bcgov.github.io/FFEC-website/</link>
+<atom:link href="https://bcgov.github.io/FFEC-website/index.xml" rel="self" type="application/rss+xml"/>
+<description>FFEC news</description>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Thu, 04 Apr 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>FFEC website is under construction</title>
+  <link>https://bcgov.github.io/FFEC-website/news/04042024.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="published" class="level4">
+<h4 class="anchored" data-anchor-id="published">Published April 4, 2024</h4>
+<p>We are working hard on the FFEC website to bring you information about the FFEC team and the research and research-based tools we are developing to answer issues related to climate change impacts on BC forests.</p>
+<p>Feel free to subscribe to our RSS feed to receive updates on our work!</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://bcgov.github.io/FFEC-website/news/04042024.html</guid>
+  <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

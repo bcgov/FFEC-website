@@ -4,28 +4,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Powered by Quarto"
-  },
-  {
-    "objectID": "publications.html#reports",
-    "href": "publications.html#reports",
-    "title": "Publications",
-    "section": "Reports",
-    "text": "Reports"
-  },
-  {
-    "objectID": "publications.html#social-media",
-    "href": "publications.html#social-media",
-    "title": "Publications",
-    "section": "Social media",
-    "text": "Social media"
-  },
-  {
-    "objectID": "products.html",
-    "href": "products.html",
-    "title": "Products and tools",
-    "section": "",
-    "text": "Powered by Quarto"
+    "text": "Page under construction."
   },
   {
     "objectID": "products.html#climr-r-package",
@@ -35,38 +14,45 @@
     "text": "climr R package"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Future Forest Ecosystems Centre",
+    "section": "",
+    "text": "Github\n  \n\n  \n  \nWelcome to the Future Forest Ecosystems Centre!\nWe are a research-oriented team based at the Forest Carbon and Climate Services Branch, Office of the Chief Forester (BC Ministry of Forests), in Victoria, BC, Canada.\nThe Future Forest Ecosystems Centre (FFEC) supports the integration of climate risk into ecosystem management in British Columbia. We are a scientific team that forecasts climate change impacts to BC’s forest ecosystems.\nOur focus is on decision support: data, tools, and guidance for practitioners, planners, policymakers, and Indigenous knowledge-holders."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Future Forest Ecosystems Centre",
+    "section": "News",
+    "text": "News\n\n\n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nApr 4, 2024\n\n\nFFEC website is under construction\n\n\n1 min\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Who we are",
     "section": "",
-    "text": "The Future Forest Ecosystems Centre is a brand new research-oriented team at the Forest Carbon and Climate Services Branch of the Office of the Chief Forester (BC Ministry of Forests).\nStarted in 2022, the FFEC has put together a team of researchers to answer complex questions about the stability and resilience for British Columbia’s forests to the effects of ongoing climate change, drought, pests and fire.\nTo answer these complex questions, we use a using a variety of approaches from advanced statistical modelling to downscale climate projections and complex ecological landscape simulation modelling, to collecting and analysing dendrochronological data to investigate tree and stand responses to climate warming and drought.\nPowered by Quarto"
+    "text": "The Future Forest Ecosystems Centre is a brand new research-oriented team at the Forest Carbon and Climate Services Branch of the Office of the Chief Forester (BC Ministry of Forests).\nStarted in 2022, the FFEC has put together a team of researchers to answer complex questions about the stability and resilience for British Columbia’s forests to the effects of ongoing climate change, drought, pests and fire.\nTo answer these complex questions, we use a using a variety of approaches from advanced statistical modelling to downscale climate projections and complex ecological landscape simulation modelling, to collecting and analysing dendrochronological data to investigate tree and stand responses to climate warming and drought."
   },
   {
     "objectID": "about.html#team-profiles",
     "href": "about.html#team-profiles",
     "title": "Who we are",
     "section": "Team profiles",
-    "text": "Team profiles\n\n\n\n\n\n\n\nAseem Sharma\n\n\n\n\nDr Aseem Sharma- Research Climatologist\n\naseem_bio.rmd\n\n\n\n\n\n\n\n\nCeres Barros\n\n\n\n\nDr Ceres Barros - Research EcologistCeres has a strong passion for understanding and predicting ecosystem resilience to multiple disturbances. She has experience using complex ecological simulation models to explore fundamental and applied questions related to ecosystem stability to climate change, drought, fire, land-use changes and permafrost thaw. Her research is also strongly focused on the development of integrated, reusable and transparent modelling workflows that can be used not only for research purposes, but also to support and inform end-users within and beyond government. She earned her BSc in Biology from the University of Lisbon, Portugal, and an MSc in Ecology and Environmental Sustainability from the University of Aberdeen, Scotland. She later obtained her PhD in Biodiversity, Ecology and Environment from the University of Grenoble Alps, France, and was a post-doctoral fellow and research associate at the the University of British Columbia, Vancouver, Canada. Ceres is currently on the British Ecological Society Macroecology SIG committee and on the Response Diversity Network committee, and is an Associate Editor for Ecological Solutions and Evidence. She is also an Adjunt Professor at the University of British Columbia and at Université Laval.\n\n\n\n\n\n\n\nColin Mahony\n\n\n\n\nTeam LeadDr Colin Mahony\n\n\n\n\n\n\n\nKiri Daust\n\n\n\n\nKiri Daust, BSc- Data Scientist\n\n\n\n\n\n\n\nVanessa Comeau\n\n\n\n\nVanessa Comeau, MSc- Research EcologistVanessa Comeau uses forest ecology and dendrochronology to better understand the impacts of anthropogenic climate change on forests in British Columbia. She is particularly interested in applied research that is collaborative with local stakeholders and Indigenous Peoples. Vanessa earned an MSc from the Faculty of Forestry at the University of British Columbia focused on understanding the climatic drivers of yellow-cedar decline on Haida Gwaii. She completed a Bachelor of Environmental Science at the University of Manitoba with a focus on vegetation ecology and anthropogenic impacts on prairie ecosystems. Vanessa grew up in Winnipeg, Manitoba and has lived in BC since 2016. She currently lives and works on the unceded ancestral territory of the Musqueam, Squamish and Tsleil-Waututh peoples (Vancouver, BC).\n\n\n\n\n\n\n\nVivek Srivastava\n\n\n\n\nDr Vivek Srivastava- Data ScientistVivek is a PhD graduate from the University of British Columbia and is currently working with the BC Ministry of Forests as a Forest Health Research Climatologist. He is also an Honorary Research Associate at the University of British Columbia. He holds a bachelor’s degree in forestry, a master’s degree in remote sensing and GIS and a Ph.D. in Forest Ecology and Integrated Pest Management with specialization in forest health, ecological modelling, data analysis, GIS and applied machine learning. Vivek studies forest insect pests and develops computer-based spatial- temporal pest risk mathematical models to help detect and mitigate the spread of plant pests and diseases. His work also includes building data pipelines to understand, predict, and manage forest health factors, using existing forest health datasets and new technologies. He supervises multiple projects and students and actively presents his work on various scientific platforms. Vivek has received multiple academic and scientific awards and has published over a dozen peer-reviewed papers and is an Associate Editor for Management of Biological Invasions Vivek is excited about helping with efforts to proactively manage key insect pests while developing tools and techniques for assisting decision-making in managing natural resources.\n\n\n\n\n\n\n\nXin Yuan\n\n\n\n\nManagerXin Yuan, MSc"
+    "text": "Team profiles\n\n\n\n\n\n\n\nAseem Sharma\n\n\n\n\nDr Aseem SharmaResearch Climatologist\n\nbios/aseem_bio.rmd\n\n\n\n\n\n\n\n\nCeres Barros\n\n\n\n\nDr Ceres BarrosResearch Scientist at the Canadian Forest Service\n\nbios/ceres_bio.rmd\n\n\n\n\n\n\n\n\nColin Mahony\n\n\n\n\nDr Colin MahonyResearch Climatologist and FFEC Team Lead\n\nbios/colin_bio.rmd\n\n\n\n\n\n\n\n\nCourtney Collins\n\n\n\n\nDr Courtney CollinsClimate Change Research Ecologist\n\nbios/courtney_bio.rmd\n\n\n\n\n\n\n\n\nKiri Daust\n\n\n\n\nKiri Daust, BScData Scientist\n\n\n\n\n\n\n\nVanessa Comeau\n\n\n\n\nVanessa Comeau, MScResearch Ecologist\n\nbios/vanessa_bio.rmd\n\n\n\n\n\n\n\n\nVivek Srivastava\n\n\n\n\nDr Vivek SrivastavaData Scientist\n\nbios/vivek_bio.rmd\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXin Yuan\n\n\n\n\nXin Yuan, RPF, MScManager, Research Section (Forest Carbon and Climate Services Branch, Office of the Chief Forester, Ministry of Forests\n\nbios/xin_bio.rmd"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Future Forest Ecosystems Centre",
+    "objectID": "news/04042024.html",
+    "href": "news/04042024.html",
+    "title": "FFEC website is under construction",
     "section": "",
-    "text": "Welcome to the Future Forest Ecosystems Centre!\nWe are a research-oriented team at the Forest Carbon and Climate Services Branch in the Office of the Chief Forester (BC Ministry of Forests), based in Victoria, BC, Canada.\n\n\n\nPowered by Quarto"
+    "text": "Published April 4, 2024\nWe are working hard on the FFEC website to bring you information about the FFEC team and the research and research-based tools we are developing to answer issues related to climate change impacts on BC forests.\nFeel free to subscribe to our RSS feed to receive updates on our work!"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Powered by Quarto"
-  },
-  {
-    "objectID": "projects.html#past-projects",
-    "href": "projects.html#past-projects",
-    "title": "Projects",
-    "section": "Past projects",
-    "text": "Past projects"
+    "text": "Page under construction."
   }
 ]
