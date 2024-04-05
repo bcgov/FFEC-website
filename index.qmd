@@ -2,6 +2,19 @@
 title: "Future Forest Ecosystems Centre"
 comments: false
 ---
+listing:
+  id: news
+  type: table
+  contents: news
+  sort: 
+    - "date desc"
+  sort-ui: false
+  date-format: medium
+  categories: false
+  page-size: 15
+  filter-ui: true
+  fields: [date, title, reading-time]
+  feed: true
 
 Welcome to the Future Forest Ecosystems Centre!
 
@@ -10,4 +23,9 @@ in the Office of the Chief Forester (BC Ministry of Forests), based in Victoria,
 BC, Canada.
 
 
+
+## News
+
+:::{#news}
+:::
 

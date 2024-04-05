@@ -1,0 +1,12 @@
+---
+title: "FFEC website is under construction"
+date: 04-04-2024
+---
+
+#### Published {{< meta date >}}
+
+We are working hard on the FFEC website to bring you information about the 
+FFEC team and the research and research-based tools we are developing to answer 
+issues related to climate change impacts on BC forests.
+
+Feel free to subscribe to our RSS feed to receive updates on our work!
