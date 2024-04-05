@@ -1,6 +1,20 @@
 ---
 title: "Who we are"
 comments: false
+listing: 
+  id: biolist
+  contents: bios
+  sort: 
+    - "name"
+  fields: [image, title, description]
+  max-description-length: 1000000
+  image-height: 250px
+  image-align: left
+  sort-ui: false
+  filter-ui: false
+  categories: false
+  feed: false
+  page-size: 100
 ---
 
 ```{r setup, include = FALSE}
@@ -25,94 +39,5 @@ and stand responses to climate warming and drought.
 
 ## Team profiles
 
-```{r teamprofiles, echo = FALSE, results = 'asis'}
-profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", "Courtney", 
-                                       "Kiri", "Vanessa", "Vivek", "Will", "Xin"),
-                         photo = "",
-                         nameDesc = "")
-
-## add photos and descriptions -- not ideal, but Visual screws up the URLs
-
-profileTab[nameShort == "Colin", 
-           photo := "![Colin Mahony](img/Colin.jpg){width='350'}"]
-profileTab[nameShort == "Colin", 
-           nameDesc := paste("[Dr Colin Mahony](https://www.researchgate.net/profile/Colin-Mahony)",
-                             "Research Climatologist and FFEC Team Lead", 
-                             "",
-                             htmltools::includeMarkdown("bios/colin_bio.rmd"),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Xin", 
-           photo := "![Xin Yuan](img/Xin.jfif){width='350'}"]
-profileTab[nameShort == "Xin", 
-           nameDesc := paste("[Xin Yuan, RPF, MSc](https://ca.linkedin.com/in/yuanforestry)",
-                             paste("Manager, Research Section (Forest Carbon and Climate Services",
-                                   "Branch, Office of the Chief Forester, Ministry of Forests"), 
-                             "",
-                             htmltools::includeMarkdown("bios/xin_bio.rmd"),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Aseem", 
-           photo := "![Aseem Sharma](img/Aseem.jpg){width='350'}"]
-profileTab[nameShort == "Aseem", 
-           nameDesc := paste("[Dr Aseem Sharma](https://sites.google.com/view/aseemrajsharma/home)",
-                             "Research Climatologist", 
-                             "",
-                             htmltools::includeMarkdown("bios/aseem_bio.rmd"),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Ceres", 
-           photo := "![Ceres Barros](https://i1.rgstatic.net/ii/profile.image/705102948093955-1545121051789_Q512/Ceres-Barros.jpg){width='350'}"]
-profileTab[nameShort == "Ceres", 
-           nameDesc := paste("[Dr Ceres Barros](https:/www.researchgate.net/profile/Ceres-Barros)",
-                             "Research Scientist at the Canadian Forest Service", 
-                             "",
-                             htmltools::includeMarkdown("bios/ceres_bio.rmd"),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Kiri", 
-           photo := "![Kiri Daust](img/Kiri.jfif){width='350'}"]
-profileTab[nameShort == "Kiri", 
-           nameDesc := paste("[Kiri Daust, BSc](https://www.researchgate.net/profile/Kiri-Daust)",
-                             "Data Scientist", 
-                             "",
-                             paste(
-                               "<!--TODO: add description-->"
-                             ),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Vanessa", 
-           photo := "![Vanessa Comeau](https://static.wixstatic.com/media/06cf37_fa60f83b389b42cdb1d56a78cfd94487~mv2.jpg/v1/fill/w_1382,h_1382,al_c,q_85/Vanessa%20Comeau.jpg){width='350'}"]
-profileTab[nameShort == "Vanessa", 
-           nameDesc := paste(paste("[Vanessa Comeau,",
-                                   "MSc](https://www.researchgate.net/profile/Vanessa-Comeau-2)"),
-                             "Research Ecologist", 
-                             "",
-                             htmltools::includeMarkdown("bios/vanessa_bio.rmd"),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Vivek", 
-           photo := "![Vivek Srivastava](https://popecol.sites.olt.ubc.ca/files/2022/06/Vivek_Srivastava_square.png){width='350'}"]
-profileTab[nameShort == "Vivek", 
-           nameDesc := paste("[Dr Vivek Srivastava](https://www.researchgate.net/profile/Vivek-Srivastava-9)",
-                             "Data Scientist", 
-                             "",
-                             htmltools::includeMarkdown("bios/vivek_bio.rmd"),
-                             sep = "<br>")]
-
-profileTab[nameShort == "Courtney", 
-           photo := "![Courtney Collins](img/Courtney.jpg){width='350'}"]
-profileTab[nameShort == "Courtney", 
-           nameDesc := paste("[Dr Courtney Collins](https://courtneygcollins.weebly.com/)",
-                             "Climate Change Research Ecologist", 
-                             "",
-                             htmltools::includeMarkdown("bios/courtney_bio.rmd"),
-                             sep = "<br>")]
-
-kable(profileTab[, .(photo, nameDesc)], format = "html", escape = FALSE, col.names = NULL) |> 
-  kable_styling(full_width=TRUE) |>
-  # collapse_rows(columns = c(1,2), valign="top") |>
-  column_spec(column = 1, border_right = TRUE, width = "4cm") |>
-  print()
-
-```
+:::{#biolist}
+:::

@@ -1,0 +1,52 @@
+---
+title: "Dr Ceres Barros, Research Scientist (CFS)"
+name: "Ceres Barros"
+image: https://i1.rgstatic.net/ii/profile.image/705102948093955-1545121051789_Q512/Ceres-Barros.jpg
+comments: false
+about: 
+  id: ceres
+  template: solana
+  image: https://i1.rgstatic.net/ii/profile.image/705102948093955-1545121051789_Q512/Ceres-Barros.jpg
+  image-shape: rounded
+  links: 
+    - icon: globe
+      text: webpage
+      href: https:/www.researchgate.net/profile/Ceres-Barros
+    - icon: github
+      text: GitHub
+      href: https://github.com/CeresBarros
+    - icon: envelope
+      text: e-mail
+      href: "mailto: ceres.barros@ubc.ca"
+---
+
+:::{#ceres}
+
+Ceres has a strong passion for understanding and predicting ecosystem
+resilience to multiple disturbances. She has experience using complex
+ecological simulation models to explore fundamental and applied
+questions related to ecosystem stability to climate change, drought,
+fire, land-use changes and permafrost thaw. Her research is also
+strongly focused on the development of integrated, reusable and
+transparent modelling workflows that can be used not only for research
+purposes, but also to support and inform end-users within and beyond
+government. 
+
+She earned her BSc in Biology from the University of Lisbon,
+Portugal, and an MSc in Ecology and Environmental Sustainability from
+the University of Aberdeen, Scotland. She later obtained her PhD in
+Biodiversity, Ecology and Environment from the University of Grenoble
+Alps, France, and was a post-doctoral fellow and research associate at
+the the University of British Columbia, Vancouver, Canada.
+
+After spending some time as Climate Change Research Ecologist at the FFEC,
+Ceres took a Research Scientist position at the Pacific Forestry Centre, 
+Canadian Forest Service. She is an Adjunct Professor at the University of 
+British Columbia and at Université Laval, is on the 
+[British Ecological Society Macroecology SIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/macroecology/) 
+committee and on the 
+[Response Diversity Network](https://responsediversitynetwork.github.io/RDN-website/who-we-are.html)
+committee, and is an Associate Editor for [Ecological Solutions and
+Evidence](https://besjournals.onlinelibrary.wiley.com/journal/26888319).
+
+:::

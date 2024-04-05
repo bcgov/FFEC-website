@@ -1,9 +1,21 @@
 ---
-title: "Xin's Bio"
-
-date-format: long
+title: "Xin Yuan MSc RPF, Manager"
+name: "Xin Yuan"
+source_url: "https://ca.linkedin.com/in/yuanforestry"
+image: ../img/feature-Xin.jfif
 comments: false
+about: 
+  id: xin
+  template: solana
+  image: ../img/feature-Xin.jfif
+  image-shape: rounded
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ca.linkedin.com/in/yuanforestry
 ---
+
+:::{#xin}
 
 Xin Yuan is a manager in British Columbia Ministry of Forests. Since
 2023, Xin has led the work of forest carbon and climate in the branch.
@@ -11,9 +23,10 @@ Prior to that, Xin provided policy analysis on the province's Forest and
 Range Practices Act amendment. Xin joined the ministry in 2013 and since
 then she has held roles within the provincial government in forest
 operations, provincial forest legislation, and stakeholder engagement.
-
 Xin is a registered professional forester and holds a Masters of Science
 in Forestry from the University of New Brunswick. Xin began studying
 forestry because of her interest and passion for trees. She enjoys
 learning climate change through her work and collaborating with her
 amazing team!
+
+:::

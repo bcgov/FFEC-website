@@ -1,0 +1,21 @@
+---
+title: "Destany Crane, Data Architect"
+name: "Destany Crane" 
+# image: ../img/feature-Destany.jpg
+comments: false
+about: 
+  id: destany
+  template: solana
+  # image: ../img/feature-Destany.jpg
+  # image-shape: rounded
+  # links: 
+  #   - icon: globe
+  #     text: webpage
+  #     href: https://www.researchgate.net/profile/Kiri-Daust
+---
+
+:::{#destany}
+
+<!-- add bio -->
+
+:::
