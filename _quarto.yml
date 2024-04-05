@@ -24,7 +24,7 @@ website:
       - text: "What we do"
         menu:
           - projects/index.qmd
-          - products.qmd
+          - products/index.qmd
       - text: "Publications"
         file: publications/index.qmd
     tools:

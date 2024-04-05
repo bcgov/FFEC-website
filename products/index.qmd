@@ -1,0 +1,7 @@
+---
+title: "Products and tools"
+listing:
+  id: products
+  type: grid
+page-layout: full
+---
