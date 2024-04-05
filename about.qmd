@@ -26,7 +26,7 @@ and stand responses to climate warming and drought.
 ## Team profiles
 
 ```{r teamprofiles, echo = FALSE, results = 'asis'}
-profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", 
+profileTab <- data.table(nameShort = c("Aseem", "Ceres", "Colin", "Courtney", 
                                        "Kiri", "Vanessa", "Vivek", "Will", "Xin"),
                          photo = "",
                          nameDesc = "")
@@ -98,6 +98,15 @@ profileTab[nameShort == "Vivek",
                              "Data Scientist", 
                              "",
                              htmltools::includeMarkdown("bios/vivek_bio.rmd"),
+                             sep = "<br>")]
+
+profileTab[nameShort == "Courtney", 
+           photo := "![Courtney Collins](img/Courtney.jpg){width='350'}"]
+profileTab[nameShort == "Courtney", 
+           nameDesc := paste("[Dr Courtney Collins](https://courtneygcollins.weebly.com/)",
+                             "Climate Change Research Ecologist", 
+                             "",
+                             htmltools::includeMarkdown("bios/courtney_bio.rmd"),
                              sep = "<br>")]
 
 kable(profileTab[, .(photo, nameDesc)], format = "html", escape = FALSE, col.names = NULL) |> 
