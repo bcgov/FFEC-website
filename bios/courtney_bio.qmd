@@ -1,8 +1,20 @@
 ---
-title: "Courtney's Bio"
-date-format: long
+title: "Dr Courtney Collins, Climate Change Research Ecologist"
+name: "Courtney Collins"
+image: ../img/feature-Courtney.jpg
 comments: false
+about: 
+  id: courtney
+  template: solana
+  image: ../img/feature-Courtney.jpg
+  image-shape: rounded
+  links: 
+    - icon: globe
+      text: webpage
+      href: https://courtneygcollins.weebly.com/
 ---
+
+:::{#courtney}
 
 Courtney is a plant community ecologist and biogeographer, with a
 motivation for understanding the myriad drivers of species range
@@ -22,3 +34,5 @@ Postdoctoral researcher at CU Boulder and at the Biodiversity Research
 Centre at UBC. Courtney is an avid hiker, camper, and overall nature
 enthusiast, and loves spending time outdoors identifying plants,
 mushrooms, and wildlife across BC and beyond!
+
+:::

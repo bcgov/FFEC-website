@@ -1,0 +1,21 @@
+---
+title: "Kiri Daust, Data Scientist"
+name: "Kiri Daust"
+image: ../img/feature-Kiri.jfif
+comments: false
+about: 
+  id: kiri
+  template: solana
+  image: ../img/feature-Kiri.jfif
+  image-shape: rounded
+  links: 
+    - icon: globe
+      text: webpage
+      href: https://www.researchgate.net/profile/Kiri-Daust
+---
+
+:::{#kiri}
+
+<!-- add bio -->
+
+:::

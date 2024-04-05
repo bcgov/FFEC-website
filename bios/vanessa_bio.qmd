@@ -1,8 +1,21 @@
 ---
-title: "Vanessa's Bio"
-date-format: long
+title: "Vanessa Comeau MSc, Research Ecologist"
+name: "Vanessa Comeau"
+source_url: ""
+image: https://static.wixstatic.com/media/06cf37_fa60f83b389b42cdb1d56a78cfd94487~mv2.jpg/v1/fill/w_1382,h_1382,al_c,q_85/Vanessa%20Comeau.jpg
 comments: false
+about: 
+  id: vanessa
+  template: solana
+  image: https://static.wixstatic.com/media/06cf37_fa60f83b389b42cdb1d56a78cfd94487~mv2.jpg/v1/fill/w_1382,h_1382,al_c,q_85/Vanessa%20Comeau.jpg
+  image-shape: rounded
+  links: 
+    - icon: globe
+      text: webpage
+      href: https://www.researchgate.net/profile/Vanessa-Comeau-2
 ---
+
+:::{#vanessa}
 
 Vanessa Comeau uses forest ecology and dendrochronology to better
 understand the impacts of anthropogenic climate change on forests in
@@ -18,3 +31,5 @@ prairie ecosystems. Vanessa grew up in Winnipeg, Manitoba and has lived
 in BC since 2016. She currently lives and works on the unceded ancestral
 territory of the Musqueam, Squamish and Tsleil-Waututh peoples
 (Vancouver, BC).
+
+:::
