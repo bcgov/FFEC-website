@@ -5,11 +5,4 @@ date-format: long
 comments: false
 ---
 
-## Peer-reviewed publications
-<!--TODO: add a list-->
-
-## Reports
-<!--TODO: add a list-->
-
-## Social media
-<!--TODO: add a list-->
+Page under construction.
