@@ -1,0 +1,12 @@
+---
+title: "This is a report title"
+date: 2024-04-04
+author: ["Author 1", "Author 2"]
+publication: "Series Title, Institution, Place (year)."
+categories: ["mock"]
+url_source: "XXXX"
+series: "XXXX"
+institution: "Institution"
+place: "Victoria, BC"
+year: 2024
+---

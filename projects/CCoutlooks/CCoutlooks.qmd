@@ -1,0 +1,47 @@
+---
+title: "Climate change outlooks for tree species"
+alias: &ALIAS CCoutlooks
+image: Capture.png
+# listing:
+#   id: pubs
+#   contents: 
+#     - "../../publications/**/*.qmd"
+#     - "!../../publications/templateQMDs"
+#   sort: "pub_number desc"
+#   sort-ui: false
+#   include:
+#     categories: *ALIAS
+#   fields: [publication, title, categories, image, date, author]
+---
+
+<!-- the following doesn't work well if we don't change text colour -->
+<!-- kept here as placeholder -->
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('Designer_light.jpeg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+<!-- </style> -->
+
+::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+![](Capture.png)
+:::
+
+::: {#second-column}
+<!-- ADD TEXT HERE TILL END OF IMAGE -->
+:::
+
+:::
+
+## Related Products
+-   [Species feasibility maps](../../products/sppFeasibility/sppFeasibility.qmd)
+
+-   [Climate Change Informed Species Selection (CCISS) Tool](../../products/CCISS/CCISS.qmd)
+
+<!-- ## Related Publications -->
+
+<!-- ::: {#pubs} -->
+<!-- ::: -->

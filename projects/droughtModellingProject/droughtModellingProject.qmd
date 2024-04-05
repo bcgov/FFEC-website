@@ -1,0 +1,71 @@
+---
+title: "Landscape-scale forecasts of compound effects of drought, climate warming and fire on forest composition and structure"
+alias: &ALIAS droughtModellingProject
+image: Designer.jpeg
+body-footer: "AI-generated image, using [Microsoft Designer](https://designer.microsoft.com/image-creator)" 
+listing:
+  id: pubs
+  contents: 
+    - "../../publications/**/*.qmd"
+    - "!../../publications/templateQMDs"
+  sort: "pub_number desc"
+  sort-ui: false
+  include:
+    categories: *ALIAS
+  fields: [publication, title, categories, image, date, author]
+---
+
+<!-- the following doesn't work well if we don't change text colour -->
+<!-- kept here as placeholder -->
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('Designer_light.jpeg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+<!-- </style> -->
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column}
+
+![](Designer.jpeg)
+
+:::
+
+::: {#second-column}
+
+Drought severity and impacts on BC forests are expected to increase in
+the coming years, with negative outcomes for an array of forest values
+and ecosystem services (ES). Despite the existing evidence of drought
+impacts across many forests in BC, forest management requires
+assessments of forest susceptibility to both direct and indirect (e.g.
+via changes in fire activity) drought effects across large spatial
+scales and that account for climate uncertainty. These assessments are
+only possible using modelling tools that incorporate information on
+forest responses to drought and climate warming, but also the
+interactions between drought, fire and the forest.
+
+:::
+
+::::
+
+In collaboration with Dr. Ignacio Barbeito (UBC) and Dr. Ceres Barros
+(CFS), the FFEC is supporting the development of new models to forecast
+drought impacts on forest dynamics and forest ES in BC and fill current
+forest modelling gaps within the context of forest management in BC.
+Notably, the lack of spatially explicit simulation of disturbances
+(e.g., wildfire), climate change and drought effects on forest dynamics,
+which hinder our estimates of forest productivity and of annual
+allowable cut under a changing climate and disturbance. The project will
+capitalise on an existing open-source forest landscape model, LandR
+(Barros et al. 2023), to forecast impacts of (gradual) climate warming,
+drought and fire under different management approaches on timber and
+non-timber ES in BC. LandR has been built with the principles of
+reusability and transparency in mind, so that it can be more readily
+transferred to different forests across BC.
+
+## Related Publications
+
+::: {#pubs}
+:::

@@ -4,6 +4,7 @@ project:
     - "*.qmd"
     - "!packages/"  ## there are some .Rmds in pkg files
     - "!bios/"
+    - "!publications/templateQMDs/"
   preview:
     port: 3979
 
@@ -27,10 +28,10 @@ website:
         file: about.qmd
       - text: "What we do"
         menu:
-          - projects.qmd
-          - products.qmd
+          - projects/index.qmd
+          - products/index.qmd
       - text: "Publications"
-        file: publications.qmd
+        file: publications/index.qmd
     tools:
       - icon: github
         menu:

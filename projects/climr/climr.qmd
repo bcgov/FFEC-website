@@ -1,0 +1,65 @@
+---
+title: "`climr`"
+alias: &ALIAS climr
+image: logo.png
+# listing:
+#   id: pubs
+#   id: pubs
+#   contents: 
+#     - "../../publications/**/*.qmd"
+#     - "!../../publications/templateQMDs"  sort: "pub_number desc"
+#   sort-ui: false
+#   include:
+#     categories: *ALIAS
+#   fields: [publication, title, categories, image, date, author]
+---
+
+<!-- the following doesn't work well if we don't change text colour -->
+
+<!-- kept here as placeholder -->
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('Designer_light.jpeg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+<!-- </style> -->
+
+::: {layout="[ 20, 80 ]"}
+::: {#first-column}
+![](logo.png)
+:::
+
+::: {#second-column}
+`climr` is an experimental R package that builds on the downscaling
+concepts operationalized in the ClimateNA tool (Wang et al. 2016). It
+provides downscaling of observational and simulated climate data using a
+simple method that adds low-spatial-resolution climate anomalies to a
+high-spatial-resolution reference climatological map, with additional
+elevation adjustment. `climr` is developed and maintained in-house by
+the FFEC.
+:::
+:::
+
+`climr` addresses several unmet needs for climate analysis:
+
+-   Efficient programmatic access to climate data (25-50x faster than
+ClimateBC/NA)
+
+-   Time series and normals for multiple climate simulations per GCM, which
+is essential to representing interannual variability and the full range
+of modeling uncertainty.
+
+-   Open-source community development, providing data security and the
+opportunity for BC government and public users to nimbly make
+improvements.
+
+## Related Products
+
+-   [`climr` R package](../../products/climr/climr.qmd)
+
+<!-- ## Related Publications -->
+
+<!-- ::: {#pubs} -->
+
+<!-- ::: -->

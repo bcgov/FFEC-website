@@ -1,0 +1,61 @@
+---
+title: "Publications"
+listing:
+  - id: peer-reviewed
+    template: ../_ejs/publications.ejs
+    contents: ../publications/peer-reviewed/**/*.qmd
+    sort: 
+      - "date desc"
+      - "author"
+    page-size: 30
+    filter-ui: true
+    fields: [image, title, publication, author, url_source]
+    image-placeholder: report.jpg
+  - id: reports
+    template: ../_ejs/reports.ejs
+    contents: ../publications/reports/**/*.qmd
+    exclude:
+      categories: "mock" ## when testing, remove this
+    sort: 
+      - "date desc"
+      - "title"
+    page-size: 30
+    filter-ui: true
+    fields: [title, publication, author, url_source]
+    image-placeholder: report.png
+  - id: media
+    template: ../_ejs/media.ejs
+    contents: ../publications/media/**/*.qmd
+    exclude:
+      categories: "mock"  ## when testing, remove this
+    sort: 
+      - "date desc"
+      - "title"
+    page-size: 30
+    filter-ui: true
+    fields: [title, publication, author, url_source]
+    image-placeholder: share.png
+page-layout: full
+body-footer: "Icons from Freepik, [flaticon.com](flaticon.com)" 
+---
+
+<hr>
+
+
+## Peer-reviewed publications
+
+:::{#peer-reviewed}
+:::
+
+## Reports
+
+:::{#reports}
+:::
+
+
+## Media
+
+:::{#media}
+:::
+
+

@@ -1,0 +1,37 @@
+---
+title: "CCISS Tool"
+alias: &ALIAS climr
+image: Capture.png
+---
+
+<!-- the following doesn't work well if we don't change text colour -->
+<!-- kept here as placeholder -->
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('Designer_light.jpeg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+<!-- </style> -->
+
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+![](Capture.png)
+:::
+
+::: {#second-column}
+Climate Change Informed Species Selection (CCISS – pronounced ‘kiss’) is a 
+Biogeoclimatic Ecosystem Classification-based analysis framework built to 
+anticipate the change climate implications to tree species environmental 
+suitability at a site specific level. The CCISS tool is a web-based application 
+that makes this analysis accessible to practitioners to help guide climate change
+adaptation in reforestation decisions.
+:::
+:::
+
+-   [CCISS Tool](https://thebeczone.ca/shiny/cciss/)
+
+## Related Projects
+-   [`climr` R package](../../projects/climr/climr.qmd)
+
+-   [Climate change outlooks for tree species](../../projects/CCoutlooks/CCoutlooks.qmd)

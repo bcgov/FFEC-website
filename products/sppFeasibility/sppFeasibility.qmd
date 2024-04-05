@@ -1,0 +1,31 @@
+---
+title: "Species feasibility maps"
+alias: &ALIAS sppFeasibiltiy
+image: Capture.png
+---
+
+<!-- the following doesn't work well if we don't change text colour -->
+<!-- kept here as placeholder -->
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('Designer_light.jpeg'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+<!-- </style> -->
+
+::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+![](Capture.png)
+:::
+
+::: {#second-column}
+<!-- ADD TEXT HERE TILL END OF IMAGE -->
+:::
+
+:::
+
+## Related Projects
+-   [Climate change outlooks for tree species](../../projects/CCoutlooks/CCoutlooks.qmd)
+

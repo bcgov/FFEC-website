@@ -1,0 +1,14 @@
+---
+title: "An ecological approach to climate change-informed tree species selection for reforestation"
+date: 2021-02-01
+author: ["William H MacKenzie", "Colin R Mahony"]
+publication: "Forest Ecology and Management, **481**, _1187051_ (2021)."
+categories: ["cciss"]
+url_source: "https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.7566"
+url_preprint: 
+journ: "International Journal of Climatology"
+issue: 481
+page: 118705
+year: 2021
+image: 1-s2.0-S0378112720314742-gr6_lrg.jpg
+---
