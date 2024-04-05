@@ -1,0 +1,24 @@
+---
+title: "Courtney's Bio"
+date-format: long
+comments: false
+---
+
+Courtney is a plant community ecologist and biogeographer, with a
+motivation for understanding the myriad drivers of species range
+dynamics and their responses to global change. She has expertise in
+alpine tundra ecosystems and is excited to be transitioning to a focus
+on the beautiful forest ecosystems of British Columbia. Much of her
+research focuses on the combination of biotic and abiotic drivers that
+shape species responses to the environment, including competitive
+dynamics, plant-soil interactions, and plant phenology and functional
+traits. Courtney has a passion for data science and ecological modeling
+and loves employing a diverse set of statical modeling frameworks to
+address challenging ecological questions.
+
+She completed an M.S. at the University of Georgia in Conservation
+Ecology and a PhD at UC Riverside in Plant Biology. She then worked as a
+Postdoctoral researcher at CU Boulder and at the Biodiversity Research
+Centre at UBC. Courtney is an avid hiker, camper, and overall nature
+enthusiast, and loves spending time outdoors identifying plants,
+mushrooms, and wildlife across BC and beyond!

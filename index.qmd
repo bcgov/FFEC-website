@@ -1,13 +1,48 @@
 ---
 title: "Future Forest Ecosystems Centre"
 comments: false
+about: 
+  id: ffec-welcome
+  template: trestles
+  image: img/IMG_1420.JPG
+  image-shape: round
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/bcgov/FFEC-website
+listing:
+  id: news
+  type: table
+  contents: news
+  sort: 
+    - "date desc"
+  sort-ui: false
+  date-format: medium
+  categories: false
+  page-size: 15
+  filter-ui: true
+  fields: [date, title, reading-time]
+  feed: true
 ---
+
+:::{#ffec-welcome}
 
 Welcome to the Future Forest Ecosystems Centre!
 
-We are a research-oriented team at the Forest Carbon and Climate Services Branch 
-in the Office of the Chief Forester (BC Ministry of Forests), based in Victoria,
-BC, Canada.
+We are a research-oriented team based at the Forest Carbon and Climate Services Branch,
+Office of the Chief Forester (BC Ministry of Forests), in Victoria, BC, Canada.
 
+The Future Forest Ecosystems Centre (FFEC) supports the integration of climate 
+risk into ecosystem management in British Columbia. We are a scientific team that
+forecasts climate change impacts to BC’s forest ecosystems. 
 
+Our focus is on decision support: data, tools, and guidance for practitioners, 
+planners, policymakers, and Indigenous knowledge-holders.  
+
+:::
+
+## News
+
+:::{#news}
+:::
 
