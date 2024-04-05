@@ -65,7 +65,7 @@ profileTab[nameShort == "Ceres",
            photo := "![Ceres Barros](https://i1.rgstatic.net/ii/profile.image/705102948093955-1545121051789_Q512/Ceres-Barros.jpg){width='350'}"]
 profileTab[nameShort == "Ceres", 
            nameDesc := paste("[Dr Ceres Barros](https:/www.researchgate.net/profile/Ceres-Barros)",
-                             "Research Ecologist", 
+                             "Research Scientist at the Canadian Forest Service", 
                              "",
                              htmltools::includeMarkdown("bios/ceres_bio.rmd"),
                              sep = "<br>")]
