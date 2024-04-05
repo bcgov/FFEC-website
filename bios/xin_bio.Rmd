@@ -1,6 +1,6 @@
 ---
 title: "Xin's Bio"
-date: last-modified
+
 date-format: long
 comments: false
 ---

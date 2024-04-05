@@ -38,6 +38,7 @@ jobs:
         with:
           packages:
             any::data.table
+            any::httr
             any::kableExtra
             any::knitr
             any::Require

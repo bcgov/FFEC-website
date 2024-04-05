@@ -5,5 +5,6 @@ install.packages("data.table")
 
 if (!"Require" %in% installed.packages()) install.packages("Require")
 
-Require::setLibPaths("packages", standAlone = TRUE)
+Require::setLibPaths("packages")
 
+Require::Require("rvest")
