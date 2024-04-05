@@ -28,6 +28,34 @@
     "text": "News\n\n\n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nReading Time\n\n\n\n\n\n\nApr 4, 2024\n\n\nFFEC website is under construction\n\n\n1 min\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "bios/vivek_bio.html",
+    "href": "bios/vivek_bio.html",
+    "title": "Dr Vivek Srivastava, Data Scientist",
+    "section": "",
+    "text": "webpage\n  \n\n      \nVivek is a PhD graduate from the University of British Columbia and is currently working with the BC Ministry of Forests as a Forest Health Research Climatologist. He is also an Honorary Research Associate at the University of British Columbia. He holds a bachelor’s degree in forestry, a master’s degree in remote sensing and GIS and a Ph.D. in Forest Ecology and Integrated Pest Management with specialization in forest health, ecological modelling, data analysis, GIS and applied machine learning.\nVivek studies forest insect pests and develops computer-based spatial- temporal pest risk mathematical models to help detect and mitigate the spread of plant pests and diseases. His work also includes building data pipelines to understand, predict, and manage forest health factors, using existing forest health datasets and new technologies. He supervises multiple projects and students and actively presents his work on various scientific platforms. Vivek has received multiple academic and scientific awards and has published over a dozen peer-reviewed papers and is an Associate Editor for Management of Biological Invasions. Vivek is excited about helping with efforts to proactively manage key insect pests while developing tools and techniques for assisting decision-making in managing natural resources."
+  },
+  {
+    "objectID": "bios/kiri_bio.html",
+    "href": "bios/kiri_bio.html",
+    "title": "Kiri Daust, Data Scientist",
+    "section": "",
+    "text": "webpage"
+  },
+  {
+    "objectID": "bios/courtney_bio.html",
+    "href": "bios/courtney_bio.html",
+    "title": "Dr Courtney Collins, Climate Change Research Ecologist",
+    "section": "",
+    "text": "webpage\n  \n\n      \nCourtney is a plant community ecologist and biogeographer, with a motivation for understanding the myriad drivers of species range dynamics and their responses to global change. She has expertise in alpine tundra ecosystems and is excited to be transitioning to a focus on the beautiful forest ecosystems of British Columbia. Much of her research focuses on the combination of biotic and abiotic drivers that shape species responses to the environment, including competitive dynamics, plant-soil interactions, and plant phenology and functional traits. Courtney has a passion for data science and ecological modeling and loves employing a diverse set of statical modeling frameworks to address challenging ecological questions.\nShe completed an M.S. at the University of Georgia in Conservation Ecology and a PhD at UC Riverside in Plant Biology. She then worked as a Postdoctoral researcher at CU Boulder and at the Biodiversity Research Centre at UBC. Courtney is an avid hiker, camper, and overall nature enthusiast, and loves spending time outdoors identifying plants, mushrooms, and wildlife across BC and beyond!"
+  },
+  {
+    "objectID": "bios/ceres_bio.html",
+    "href": "bios/ceres_bio.html",
+    "title": "Dr Ceres Barros, Research Scientist (CFS)",
+    "section": "",
+    "text": "webpage\n  \n  \n    \n     GitHub\n  \n  \n    \n     e-mail\n  \n\n      \nCeres has a strong passion for understanding and predicting ecosystem resilience to multiple disturbances. She has experience using complex ecological simulation models to explore fundamental and applied questions related to ecosystem stability to climate change, drought, fire, land-use changes and permafrost thaw. Her research is also strongly focused on the development of integrated, reusable and transparent modelling workflows that can be used not only for research purposes, but also to support and inform end-users within and beyond government.\nShe earned her BSc in Biology from the University of Lisbon, Portugal, and an MSc in Ecology and Environmental Sustainability from the University of Aberdeen, Scotland. She later obtained her PhD in Biodiversity, Ecology and Environment from the University of Grenoble Alps, France, and was a post-doctoral fellow and research associate at the the University of British Columbia, Vancouver, Canada.\nAfter spending some time as Climate Change Research Ecologist at the FFEC, Ceres took a Research Scientist position at the Pacific Forestry Centre, Canadian Forest Service. She is an Adjunct Professor at the University of British Columbia and at Université Laval, is on the British Ecological Society Macroecology SIG committee and on the Response Diversity Network committee, and is an Associate Editor for Ecological Solutions and Evidence."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Who we are",
@@ -39,7 +67,35 @@
     "href": "about.html#team-profiles",
     "title": "Who we are",
     "section": "Team profiles",
-    "text": "Team profiles\n\n\n\n\n\n\n\nAseem Sharma\n\n\n\n\nDr Aseem SharmaResearch Climatologist\n\nbios/aseem_bio.rmd\n\n\n\n\n\n\n\n\nCeres Barros\n\n\n\n\nDr Ceres BarrosResearch Scientist at the Canadian Forest Service\n\nbios/ceres_bio.rmd\n\n\n\n\n\n\n\n\nColin Mahony\n\n\n\n\nDr Colin MahonyResearch Climatologist and FFEC Team Lead\n\nbios/colin_bio.rmd\n\n\n\n\n\n\n\n\nCourtney Collins\n\n\n\n\nDr Courtney CollinsClimate Change Research Ecologist\n\nbios/courtney_bio.rmd\n\n\n\n\n\n\n\n\nKiri Daust\n\n\n\n\nKiri Daust, BScData Scientist\n\n\n\n\n\n\n\nVanessa Comeau\n\n\n\n\nVanessa Comeau, MScResearch Ecologist\n\nbios/vanessa_bio.rmd\n\n\n\n\n\n\n\n\nVivek Srivastava\n\n\n\n\nDr Vivek SrivastavaData Scientist\n\nbios/vivek_bio.rmd\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXin Yuan\n\n\n\n\nXin Yuan, RPF, MScManager, Research Section (Forest Carbon and Climate Services Branch, Office of the Chief Forester, Ministry of Forests\n\nbios/xin_bio.rmd"
+    "text": "Team profiles\n\n\n\n\n\n\n\n\n\n\nDr Aseem Sharma, Research Climatologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Ceres Barros, Research Scientist (CFS)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Colin Mahony RPF, Research Climatologist, Team Lead\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Courtney Collins, Climate Change Research Ecologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDestany Crane, Data Architect\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKiri Daust, Data Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVanessa Comeau MSc, Research Ecologist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr Vivek Srivastava, Data Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nXin Yuan MSc RPF, Manager\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "bios/aseem_bio.html",
+    "href": "bios/aseem_bio.html",
+    "title": "Dr Aseem Sharma, Research Climatologist",
+    "section": "",
+    "text": "webpage\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     X\n  \n  \n    \n     e-mail\n  \n\n      \nAseem is a Research Climatologist at FFEC bringing his expertise as a hydro-climatologist to the team. He is interested in understanding how climate variability and atmospheric dynamics influence surface hydro-climatology, extreme climate events, and wildfires. Currently, his research work is focused on improving our understanding of how extreme weathers events occur and impact our forest, ecosystems, and communities. Previously he worked in research projects that investigated the role of atmospheric blocking on wildfires, lightning occurrences and wildfires, Atmospheric Rivers and their impacts on water resources, climate change and their impacts, especially on the mountainous region of Himalayas and the Canadian Rockies, and climate change risk assessments.\nAseem has worked as a Data Science Specialist at BC Ministry of Water, Land and Resource Stewardship and as a Postdoctoral Research Scientist at Canada Wildfire (Natural Resources Canada and the University of Alberta). Aseem earned his Ph.D. and master’s degrees from the University of Northern British Columbia in Prince George, BC, with grant support from Global Water Future and the BC Real Estate Foundation. He has co-authored over a dozen peer-reviewed articles and has presented his work at many scientific conferences and community events. His publications can be accessed on his website: https://sites.google.com/view/aseemrajsharma/publications.\nBorn and raised in Nepal, Aseem, along with his wife and two children, now calls Kamloops, BC, home finds joy in exploring the region’s beautiful trails through hiking."
+  },
+  {
+    "objectID": "bios/colin_bio.html",
+    "href": "bios/colin_bio.html",
+    "title": "Dr Colin Mahony RPF, Research Climatologist, Team Lead",
+    "section": "",
+    "text": "webpage\n  \n\n      \nColin has a 25 year career in forestry and climate change adaptation. He started as a consultant in the areas of basic silviculture, timber supply analysis, restoration of forests disturbed by mountain pine beetle, wildfire hazard reduction around communities, and ecosystem mapping. Motivated by climate change impacts he witnessed in the field, Colin left consulting in 2013 to pursue a PhD in ecological climatology with Prof. Sally Aitken at UBC Forestry, focusing on the emergence of novel climate types in BC. He joined the BC Government in 2020 as Research Climatologist in the Office of the Chief Forester. As Team Lead, Colin coordinates the operations and strategic direction of the FFEC, and contributes to the development of decision support tools. Colin lives in Victoria with his wife and two kids."
+  },
+  {
+    "objectID": "bios/vanessa_bio.html",
+    "href": "bios/vanessa_bio.html",
+    "title": "Vanessa Comeau MSc, Research Ecologist",
+    "section": "",
+    "text": "webpage\n  \n\n      \nVanessa Comeau uses forest ecology and dendrochronology to better understand the impacts of anthropogenic climate change on forests in British Columbia. She is particularly interested in applied research that is collaborative with local stakeholders and Indigenous Peoples. Vanessa earned an MSc from the Faculty of Forestry at the University of British Columbia focused on understanding the climatic drivers of yellow-cedar decline on Haida Gwaii.\nShe completed a Bachelor of Environmental Science at the University of Manitoba with a focus on vegetation ecology and anthropogenic impacts on prairie ecosystems. Vanessa grew up in Winnipeg, Manitoba and has lived in BC since 2016. She currently lives and works on the unceded ancestral territory of the Musqueam, Squamish and Tsleil-Waututh peoples (Vancouver, BC)."
+  },
+  {
+    "objectID": "bios/xin_bio.html",
+    "href": "bios/xin_bio.html",
+    "title": "Xin Yuan MSc RPF, Manager",
+    "section": "",
+    "text": "LinkedIn\n  \n\n      \nXin Yuan is a manager in British Columbia Ministry of Forests. Since 2023, Xin has led the work of forest carbon and climate in the branch. Prior to that, Xin provided policy analysis on the province’s Forest and Range Practices Act amendment. Xin joined the ministry in 2013 and since then she has held roles within the provincial government in forest operations, provincial forest legislation, and stakeholder engagement. Xin is a registered professional forester and holds a Masters of Science in Forestry from the University of New Brunswick. Xin began studying forestry because of her interest and passion for trees. She enjoys learning climate change through her work and collaborating with her amazing team!"
   },
   {
     "objectID": "news/04042024.html",

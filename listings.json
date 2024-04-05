@@ -4,5 +4,19 @@
     "items": [
       "/news/04042024.html"
     ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/bios/aseem_bio.html",
+      "/bios/ceres_bio.html",
+      "/bios/colin_bio.html",
+      "/bios/courtney_bio.html",
+      "/bios/destany_bio.html",
+      "/bios/kiri_bio.html",
+      "/bios/vanessa_bio.html",
+      "/bios/vivek_bio.html",
+      "/bios/xin_bio.html"
+    ]
   }
 ]
