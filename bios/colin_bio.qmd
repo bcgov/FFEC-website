@@ -1,6 +1,7 @@
 ---
 title: "Dr Colin Mahony RPF, Research Climatologist, Team Lead"
 name: "Colin Mahony"
+order: 1
 image: ../img/feature-Colin.jpg
 source_url: 
 comments: false

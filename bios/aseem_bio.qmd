@@ -1,6 +1,7 @@
 ---
 title: "Dr Aseem Sharma, Research Climatologist"
 name: "Aseem Sharma"
+order: 4
 image: ../img/feature-Aseem.jpg
 comments: false
 about: 

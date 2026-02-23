@@ -5,7 +5,7 @@ listing:
   id: biolist
   contents: bios
   sort: 
-    - "name"
+    - "order"
   fields: [image, title, description]
   max-description-length: 1000000
   image-height: 250px

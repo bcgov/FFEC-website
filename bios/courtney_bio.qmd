@@ -1,6 +1,7 @@
 ---
 title: "Dr Courtney Collins, Climate Change Research Ecologist"
 name: "Courtney Collins"
+order: 2
 image: ../img/feature-Courtney.jpg
 comments: false
 about: 

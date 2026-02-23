@@ -34,7 +34,7 @@ image: logo.png
 
 ::: {#second-column}
 
-`climr` is an experimental R package that builds on the downscaling
+`climr` is an R package that builds on the downscaling
 concepts operationalized in the ClimateNA tool (Wang et al. 2016). It
 provides downscaling of observational and simulated climate data using a
 simple method that adds low-spatial-resolution climate anomalies to a
@@ -52,4 +52,4 @@ the FFEC.
 
 ## Related Projects
 
--   [`climr` R package](../../projects/climr/climr.qmd)
+-   [`climr` Web App](https://bcgov-ffec.ca/climr-app/)

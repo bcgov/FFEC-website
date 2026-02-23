@@ -1,12 +1,13 @@
 ---
 title: "Kiri Daust, Data Scientist"
 name: "Kiri Daust"
-image: ../img/feature-Kiri.jfif
+order: 3
+image: ../img/kiri_bio.jpeg
 comments: false
 about: 
   id: kiri
   template: solana
-  image: ../img/feature-Kiri.jfif
+  image: ../img/kiri_bio.jpeg
   image-shape: rounded
   links: 
     - icon: globe
@@ -16,6 +17,6 @@ about:
 
 :::{#kiri}
 
-<!-- add bio -->
+Kiri Daust is a Data Scientist with FFEC. His work involves climate modelling, machine learning, and app development. Kiri recently completed his MSc with Adam Monahan's lab at UVic, where he developed Generative Adversarial Networks (a type of deep learning) for statistical downscaling of climate variables, with the hope that this can be an accurate and computationally efficient method. Kiri lives with his wife on Saltspring Island, where they raise goats and are learning to make cheese. In his spare time, Kiri likes playing dramatic violin music, jamming with friends, and baking with lots of butter.
 
 :::

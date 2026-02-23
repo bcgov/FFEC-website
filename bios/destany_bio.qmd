@@ -1,6 +1,7 @@
 ---
 title: "Destany Crane, Data Architect"
 name: "Destany Crane" 
+order: 5
 # image: ../img/feature-Destany.jpg
 comments: false
 about: 

@@ -25,10 +25,8 @@ website:
         file: index.qmd
       - text: "Who we are"
         file: about.qmd
-      - text: "What we do"
-        menu:
-          - projects/index.qmd
-          - products/index.qmd
+      - text: "Projects"
+        file: products/index.qmd
       - text: "Publications"
         file: publications/index.qmd
     tools:

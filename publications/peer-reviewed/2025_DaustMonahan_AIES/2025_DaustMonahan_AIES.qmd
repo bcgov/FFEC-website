@@ -1,0 +1,14 @@
+---
+title: "Capturing Climatic Variability: Using Deep Learning for Stochastic Downscaling"
+date: 2025-06-10
+author: ["Kiri Daust", "Adam Monahan"]
+publication: "Artificial Intelligence for the Earth Systems, **4:2**, _e240044_ (2025)."
+categories: ["Climatex"]
+url_source: "https://journals.ametsoc.org/view/journals/aies/4/2/AIES-D-24-0044.1.xml"
+url_preprint: 
+journ: "Artificial Intelligence for the Earth Systems"
+issue: 4:2
+page: 240044
+year: 2025
+image: Temperature_Multivar.png
+---

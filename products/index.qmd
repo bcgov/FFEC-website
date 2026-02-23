@@ -1,5 +1,5 @@
 ---
-title: "Products and tools"
+title: "Projects and tools"
 listing:
   id: products
   type: grid

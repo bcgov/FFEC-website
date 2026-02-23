@@ -1,15 +1,8 @@
 ---
 title: "Future Forest Ecosystems Centre"
 comments: false
-about: 
-  id: ffec-welcome
-  template: trestles
-  image: img/IMG_1420.jpg
-  image-shape: round
-  links: 
-    - icon: github
-      text: Github
-      href: https://github.com/bcgov/FFEC-website
+page-layout: full   # or "article" if you prefer a narrower text width
+
 listing:
   id: news
   type: table
@@ -23,13 +16,23 @@ listing:
   filter-ui: true
   fields: [date, title, reading-time]
   feed: true
+
+format:
+  html:
+    # keep whatever theme you already use here if you have one
+    # theme: cosmo
+    css: styles.css   # we'll add a few lightweight classes below
 ---
 
-:::{#ffec-welcome}
+::: {.columns}
 
-Welcome to the Future Forest Ecosystems Centre!
+::: {.column width="60%"}
 
-We are a research-oriented team based at the Forest Carbon and Climate Services Branch,
+<div class="ffec-about">
+
+<img src="img/IMG_1420.jpg" class="ffec-headshot" alt="FFEC team">
+
+We are a research-oriented team based at the Forest Ecosystems and Analytics branch,
 Office of the Chief Forester (BC Ministry of Forests), in Victoria, BC, Canada.
 
 The Future Forest Ecosystems Centre (FFEC) supports the integration of climate 
@@ -39,6 +42,43 @@ forecasts climate change impacts to BC’s forest ecosystems.
 Our focus is on decision support: data, tools, and guidance for practitioners, 
 planners, policymakers, and Indigenous knowledge-holders.  
 
+[<i class="bi bi-github"></i> Github](https://github.com/bcgov/FFEC-website){.btn .btn-outline-primary .mt-2}
+
+</div>
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="30%"}
+
+:::: {.tool-card}
+**Climate Change Informed Species Selection (CCISS) Tool**  
+Projected future suitability of BC tree species under multiple climate scenarios.  
+[Open CCISS »](https://bcgov-ffec.ca/cciss/)
+::::
+
+:::: {.tool-card}
+**CCISS Spatial**  
+App for spatial visualisation of CCISS projections at a provincial or regional scale.
+[Open CCISS Spatial »](https://bcgov-ffec.ca/cciss/#cciss_spatial)
+::::
+
+:::: {.tool-card}
+**climr**  
+R package for scale-free downscaling of North American climate data.  
+[Open climr github »](https://github.com/bcgov/climr)
+::::
+
+:::: {.tool-card}
+**climr-app**  
+Web-app interface to the climr package, allowing GUI downscaling and visualisations.
+[Open climr-app »](https://bcgov-ffec.ca/climr-app/)
+::::
+
+:::
 :::
 
 ## News
@@ -46,3 +86,19 @@ planners, policymakers, and Indigenous knowledge-holders.
 :::{#news}
 :::
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const cards = document.querySelectorAll(".tool-card");
+  cards.forEach(card => {
+    const hue = Math.floor(Math.random() * 360);
+    card.style.backgroundColor = `hsl(${hue}, 70%, 90%)`;
+  });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".tool-card a").forEach(a => {
+    a.setAttribute("target", "_blank");
+    a.setAttribute("rel", "noopener noreferrer");
+  });
+});
+</script>

@@ -1,1 +1,35 @@
-/* css styles */
+.ffec-about {
+  padding: 1.25rem 1.5rem;
+  border-radius: 0.75rem;
+  border: 1px solid rgba(0,0,0,0.06);
+  background-color: rgba(0,0,0,0.02);
+}
+
+.ffec-headshot {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: right;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.tool-card {
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  background-color: rgba(0,0,0,0.015);
+}
+
+.tool-card p {
+  margin-bottom: 0.35rem;
+}
+
+.tool-card a {
+  display: block;        /* forces its own line */
+  margin-top: 0.4rem;    /* small spacing from description */
+  font-weight: 600;
+  text-decoration: none;
+}
